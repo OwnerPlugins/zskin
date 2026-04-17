@@ -10,6 +10,7 @@
 
 
 
+
 msgid "All png are removed from folder!"
 msgstr ""
 
