@@ -20,6 +20,8 @@ from Tools.Directories import fileExists  # , fileReadLines
 from errno import ENOENT
 
 from sys import _getframe as getframe
+from . import _
+
 DEFAULT_MODULE_NAME = __name__.split(".")[-1]
 
 # Various
