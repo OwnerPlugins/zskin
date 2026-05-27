@@ -10,115 +10,115 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 
 msgid "All png are removed from folder!"
-msgstr ""
+msgstr "Semua png dialih keluar daripada folder!"
 
 msgid "Close"
-msgstr ""
+msgstr "tutup"
 
 msgid "Current skin can not styled!"
-msgstr ""
+msgstr "Kulit sekarang tak boleh digayakan!"
 
 msgid "Default"
-msgstr ""
+msgstr "Lalai"
 
 msgid "Del Line"
-msgstr ""
+msgstr "Talian Del"
 
 msgid "Exit"
-msgstr ""
+msgstr "Keluar"
 
 msgid "File Commander - Addon"
-msgstr ""
+msgstr "Komander Fail - Addon"
 
 msgid "Import Api Key OMDB from /tmp/omdbapikey.txt?"
-msgstr ""
+msgstr "Import Api Key OMDB daripada /tmp/omdbapikey.txt?"
 
 msgid "Import Api Key TMDB from /tmp/tmdbapikey.txt?"
-msgstr ""
+msgstr "Import Api Key TMDB daripada /tmp/tmdbapikey.txt?"
 
 msgid "Info..."
-msgstr ""
+msgstr "Maklumat..."
 
 msgid "Ins Line"
-msgstr ""
+msgstr "Talian Ins"
 
 msgid "Missing %s !"
-msgstr ""
+msgstr "Hilang %s !"
 
 msgid "No previous styled skin - restore canceled!"
-msgstr ""
+msgstr "Tiada kulit gaya sebelumnya - pemulihan dibatalkan!"
 
 msgid "OMDB API:"
-msgstr ""
+msgstr "API OMDB:"
 
 msgid "OMDB ApiKey Imported & Stored!"
-msgstr ""
+msgstr "OMDB ApiKey Diimport & Disimpan!"
 
 msgid "PRESET"
 msgstr ""
 
 msgid "Preserve preview if not defined:"
-msgstr ""
+msgstr "Kekalkan pratonton jika tidak ditakrifkan:"
 
 msgid "Read Apikey OMDB from file /tmp/omdbapikey.txt"
-msgstr ""
+msgstr "Baca Apikey OMDB daripada fail /tmp/omdbapikey.txt"
 
 msgid "Read Apikey TMDB from file /tmp/tmdbapikey.txt"
-msgstr ""
+msgstr "Baca Apikey TMDB daripada fail /tmp/tmdbapikey.txt"
 
 msgid "Read style configuration from skin:"
-msgstr ""
+msgstr "Baca konfigurasi gaya daripada kulit:"
 
 msgid "Remove all png Poster:"
-msgstr ""
+msgstr "Alih keluar semua Poster png:"
 
 msgid "Reset skin"
-msgstr ""
+msgstr "Tetapkan semula kulit"
 
 msgid "Reset skin?"
-msgstr ""
+msgstr "Set semula kulit?"
 
 msgid "Restart GUI now?"
-msgstr ""
+msgstr "Mulakan semula GUI sekarang?"
 
 msgid "Save"
-msgstr ""
+msgstr "Jimat"
 
 msgid "Set Your Apikey OMDB"
-msgstr ""
+msgstr "Tetapkan Apikey OMDB Anda"
 
 msgid "Set Your Apikey TMDB"
-msgstr ""
+msgstr "Tetapkan Apikey TMDB Anda"
 
 msgid "Setup"
-msgstr ""
+msgstr "Persediaan"
 
 msgid "Skin exist!! Do you really want to Upgrade?"
-msgstr ""
+msgstr "Kulit wujud!! Adakah anda benar-benar mahu Meningkatkan?"
 
 msgid "Skin update:"
-msgstr ""
+msgstr "Kemas kini kulit:"
 
 msgid "Style presets contains errors!"
-msgstr ""
+msgstr "Pratetap gaya mengandungi ralat!"
 
 msgid "Style your zSkin"
-msgstr ""
+msgstr "Gayakan zSkin anda"
 
 msgid "TMDB API:"
-msgstr ""
+msgstr "API TMDB:"
 
 msgid "TMDB ApiKey Imported & Stored!"
-msgstr ""
+msgstr "TMDB ApiKey Diimport & Disimpan!"
 
 msgid "The skin is not styled - restore canceled!"
-msgstr ""
+msgstr "Kulit tidak digayakan - pemulihan dibatalkan!"
 
 msgid "The skin not exists - restore canceled!"
-msgstr ""
+msgstr "Kulit tidak wujud - pemulihan dibatalkan!"
 
 msgid "Would you really reset this skin?"
-msgstr ""
+msgstr "Adakah anda benar-benar akan menetapkan semula kulit ini?"
 
 msgid "play/show Files"
-msgstr ""
+msgstr "main/tunjukkan Fail"

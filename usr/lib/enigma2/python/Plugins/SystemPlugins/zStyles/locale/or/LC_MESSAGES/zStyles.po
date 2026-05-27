@@ -10,115 +10,115 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 
 msgid "All png are removed from folder!"
-msgstr ""
+msgstr "ସମସ୍ତ png ଫୋଲ୍ଡରରୁ ଅପସାରିତ ହୋଇଛି!"
 
 msgid "Close"
-msgstr ""
+msgstr "ବନ୍ଦ"
 
 msgid "Current skin can not styled!"
-msgstr ""
+msgstr "ସାମ୍ପ୍ରତିକ ଚର୍ମ ଷ୍ଟାଇଲ୍ ହୋଇପାରିବ ନାହିଁ!"
 
 msgid "Default"
-msgstr ""
+msgstr "ଡିଫଲ୍ଟ |"
 
 msgid "Del Line"
-msgstr ""
+msgstr "ଡେଲ୍ ଲାଇନ୍ |"
 
 msgid "Exit"
-msgstr ""
+msgstr "ପ୍ରସ୍ଥାନ"
 
 msgid "File Commander - Addon"
-msgstr ""
+msgstr "ଫାଇଲ୍ କମାଣ୍ଡର - ଆଡନ୍ |"
 
 msgid "Import Api Key OMDB from /tmp/omdbapikey.txt?"
-msgstr ""
+msgstr "/Tmp/omdbapikey.txt ରୁ Api Key OMDB ଆମଦାନି କରନ୍ତୁ?"
 
 msgid "Import Api Key TMDB from /tmp/tmdbapikey.txt?"
-msgstr ""
+msgstr "/Tmp/tmdbapikey.txt ରୁ Api Key TMDB ଆମଦାନି କରନ୍ତୁ?"
 
 msgid "Info..."
-msgstr ""
+msgstr "ସୂଚନା ..."
 
 msgid "Ins Line"
-msgstr ""
+msgstr "ଇନ୍ସ ଲାଇନ୍ |"
 
 msgid "Missing %s !"
-msgstr ""
+msgstr "ନିଖୋଜ% s!"
 
 msgid "No previous styled skin - restore canceled!"
-msgstr ""
+msgstr "କ previous ଣସି ପୂର୍ବ ଷ୍ଟାଇଲ୍ ଚର୍ମ ନାହିଁ - ପୁନ restore ସ୍ଥାପନ ବାତିଲ୍ ହୋଇଛି!"
 
 msgid "OMDB API:"
 msgstr ""
 
 msgid "OMDB ApiKey Imported & Stored!"
-msgstr ""
+msgstr "OMDB ApiKey ଆମଦାନୀ ଏବଂ ଗଚ୍ଛିତ!"
 
 msgid "PRESET"
 msgstr ""
 
 msgid "Preserve preview if not defined:"
-msgstr ""
+msgstr "ଯଦି ବ୍ୟାଖ୍ୟା କରାଯାଇ ନାହିଁ ତେବେ ପୂର୍ବାବଲୋକନ ସଂରକ୍ଷଣ କରନ୍ତୁ:"
 
 msgid "Read Apikey OMDB from file /tmp/omdbapikey.txt"
-msgstr ""
+msgstr "/Tmp/omdbapikey.txt ଫାଇଲ୍ ରୁ ଆପିକେ OMDB ପ Read ନ୍ତୁ |"
 
 msgid "Read Apikey TMDB from file /tmp/tmdbapikey.txt"
-msgstr ""
+msgstr "/Tmp/tmdbapikey.txt ଫାଇଲ୍ ରୁ ଆପିକେ TMDB ପ Read ନ୍ତୁ |"
 
 msgid "Read style configuration from skin:"
-msgstr ""
+msgstr "ଚର୍ମରୁ ଶ style ଳୀ ବିନ୍ୟାସ ପ Read ଼ନ୍ତୁ:"
 
 msgid "Remove all png Poster:"
-msgstr ""
+msgstr "ସମସ୍ତ png ପୋଷ୍ଟର ଅପସାରଣ କରନ୍ତୁ:"
 
 msgid "Reset skin"
-msgstr ""
+msgstr "ଚର୍ମ ପୁନ Res ସେଟ୍ କରନ୍ତୁ |"
 
 msgid "Reset skin?"
-msgstr ""
+msgstr "ଚର୍ମ ପୁନ Res ସେଟ୍ କରନ୍ତୁ?"
 
 msgid "Restart GUI now?"
-msgstr ""
+msgstr "GUI ବର୍ତ୍ତମାନ ପୁନ Rest ଆରମ୍ଭ କରନ୍ତୁ?"
 
 msgid "Save"
-msgstr ""
+msgstr "ସଞ୍ଚୟ କରନ୍ତୁ |"
 
 msgid "Set Your Apikey OMDB"
-msgstr ""
+msgstr "ତୁମର ଆପିକେ OMDB ସେଟ୍ କର |"
 
 msgid "Set Your Apikey TMDB"
-msgstr ""
+msgstr "ତୁମର ଆପିକେ TMDB ସେଟ୍ କର |"
 
 msgid "Setup"
-msgstr ""
+msgstr "ସେଟଅପ୍ |"
 
 msgid "Skin exist!! Do you really want to Upgrade?"
-msgstr ""
+msgstr "ଚର୍ମ ବିଦ୍ୟମାନ ଅଛି !! ଆପଣ ପ୍ରକୃତରେ ଅପଗ୍ରେଡ୍ କରିବାକୁ ଚାହୁଁଛନ୍ତି କି?"
 
 msgid "Skin update:"
-msgstr ""
+msgstr "ଚର୍ମ ଅଦ୍ୟତନ:"
 
 msgid "Style presets contains errors!"
-msgstr ""
+msgstr "ଷ୍ଟାଇଲ୍ ପ୍ରିସେଟ୍ ଗୁଡିକ ତ୍ରୁଟି ଧାରଣ କରେ!"
 
 msgid "Style your zSkin"
-msgstr ""
+msgstr "ଆପଣଙ୍କର zSkin ଶ Style ଳୀ କରନ୍ତୁ |"
 
 msgid "TMDB API:"
 msgstr ""
 
 msgid "TMDB ApiKey Imported & Stored!"
-msgstr ""
+msgstr "TMDB ApiKey ଆମଦାନୀ ଏବଂ ଗଚ୍ଛିତ!"
 
 msgid "The skin is not styled - restore canceled!"
-msgstr ""
+msgstr "ଚର୍ମ ଶ yl ଳୀ ନୁହେଁ - ପୁନରୁଦ୍ଧାର ବାତିଲ!"
 
 msgid "The skin not exists - restore canceled!"
-msgstr ""
+msgstr "ଚର୍ମ ବିଦ୍ୟମାନ ନାହିଁ - ପୁନରୁଦ୍ଧାର ବାତିଲ!"
 
 msgid "Would you really reset this skin?"
-msgstr ""
+msgstr "ଆପଣ ପ୍ରକୃତରେ ଏହି ଚର୍ମକୁ ପୁନ res ସେଟ୍ କରିବେ କି?"
 
 msgid "play/show Files"
-msgstr ""
+msgstr "ଫାଇଲଗୁଡିକ ଚଲାନ୍ତୁ / ଦେଖାନ୍ତୁ |"

@@ -10,115 +10,115 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 
 msgid "All png are removed from folder!"
-msgstr ""
+msgstr "png အားလုံးကို ဖိုဒါမှ ဖယ်ရှားထားသည်။"
 
 msgid "Close"
-msgstr ""
+msgstr "ပိတ်လိုက်"
 
 msgid "Current skin can not styled!"
-msgstr ""
+msgstr "လက်ရှိအသားအရည်သည် ပုံစံမပြနိုင်ပါ။"
 
 msgid "Default"
-msgstr ""
+msgstr "ပုံသေ"
 
 msgid "Del Line"
-msgstr ""
+msgstr "ဒယ်လ်လိုင်း"
 
 msgid "Exit"
-msgstr ""
+msgstr "ထွက်ပေါက်"
 
 msgid "File Commander - Addon"
 msgstr ""
 
 msgid "Import Api Key OMDB from /tmp/omdbapikey.txt?"
-msgstr ""
+msgstr "/tmp/omdbapikey.txt မှ Api Key OMDB ကို တင်သွင်းလိုပါသလား။"
 
 msgid "Import Api Key TMDB from /tmp/tmdbapikey.txt?"
-msgstr ""
+msgstr "/tmp/tmdbapikey.txt မှ Api Key TMDB ကို တင်သွင်းမလား။"
 
 msgid "Info..."
-msgstr ""
+msgstr "အချက်အလက်..."
 
 msgid "Ins Line"
-msgstr ""
+msgstr "Ins လိုင်း"
 
 msgid "Missing %s !"
-msgstr ""
+msgstr "%s ပျောက်နေသည် !"
 
 msgid "No previous styled skin - restore canceled!"
-msgstr ""
+msgstr "ယခင်ပုံစံအတိုင်း အသားအရေမရှိပါ - ပြန်လည်ရယူခြင်းကို ပယ်ဖျက်လိုက်ပါပြီ။"
 
 msgid "OMDB API:"
-msgstr ""
+msgstr "OMDB API-"
 
 msgid "OMDB ApiKey Imported & Stored!"
-msgstr ""
+msgstr "OMDB ApiKey ကို တင်သွင်းပြီး သိမ်းဆည်းထားသည်။"
 
 msgid "PRESET"
-msgstr ""
+msgstr "ကြိုတင်သတ်မှတ်ပါ။"
 
 msgid "Preserve preview if not defined:"
-msgstr ""
+msgstr "သတ်မှတ်ထားခြင်းမရှိပါက အစမ်းကြည့်ရှုခြင်းကို သိမ်းဆည်းထားပါ-"
 
 msgid "Read Apikey OMDB from file /tmp/omdbapikey.txt"
-msgstr ""
+msgstr "/tmp/omdbapikey.txt ဖိုင်မှ Apikey OMDB ကိုဖတ်ပါ။"
 
 msgid "Read Apikey TMDB from file /tmp/tmdbapikey.txt"
-msgstr ""
+msgstr "/tmp/tmdbapikey.txt ဖိုင်မှ Apikey TMDB ကိုဖတ်ပါ။"
 
 msgid "Read style configuration from skin:"
-msgstr ""
+msgstr "အရေပြားမှ ပုံစံဖွဲ့စည်းပုံကို ဖတ်ရန်-"
 
 msgid "Remove all png Poster:"
-msgstr ""
+msgstr "png ပိုစတာအားလုံးကို ဖယ်ရှားပါ-"
 
 msgid "Reset skin"
-msgstr ""
+msgstr "အသားအရေကို ပြန်လည်သတ်မှတ်ပါ။"
 
 msgid "Reset skin?"
-msgstr ""
+msgstr "အသားအရေကို ပြန်လည်သတ်မှတ်မလား။"
 
 msgid "Restart GUI now?"
-msgstr ""
+msgstr "GUI ကို ယခု ပြန်စမလား။"
 
 msgid "Save"
-msgstr ""
+msgstr "သိမ်းဆည်းပါ။"
 
 msgid "Set Your Apikey OMDB"
-msgstr ""
+msgstr "သင်၏ Apikey OMDB ကို သတ်မှတ်ပါ။"
 
 msgid "Set Your Apikey TMDB"
-msgstr ""
+msgstr "သင်၏ Apikey TMDB ကို သတ်မှတ်ပါ။"
 
 msgid "Setup"
-msgstr ""
+msgstr "တည်ဆောက်သည်"
 
 msgid "Skin exist!! Do you really want to Upgrade?"
-msgstr ""
+msgstr "အသားအရည်ရှိတယ်နော်!! သင် အမှန်တကယ် အဆင့်မြှင့်လိုပါသလား။"
 
 msgid "Skin update:"
-msgstr ""
+msgstr "အရေပြားအပ်ဒိတ်-"
 
 msgid "Style presets contains errors!"
-msgstr ""
+msgstr "စတိုင်လ် ကြိုတင်သတ်မှတ်မှုများတွင် အမှားများပါရှိသည်။"
 
 msgid "Style your zSkin"
-msgstr ""
+msgstr "သင်၏ zSkin ပုံစံကိုဖန်တီးပါ။"
 
 msgid "TMDB API:"
-msgstr ""
+msgstr "TMDB API-"
 
 msgid "TMDB ApiKey Imported & Stored!"
-msgstr ""
+msgstr "TMDB ApiKey ကို တင်သွင်းပြီး သိမ်းဆည်းထားသည်။"
 
 msgid "The skin is not styled - restore canceled!"
-msgstr ""
+msgstr "အသားအရေပုံစံမညီပါ - ပြန်လည်ထိန်းသိမ်းခြင်းကို ပယ်ဖျက်လိုက်ပါပြီ။"
 
 msgid "The skin not exists - restore canceled!"
-msgstr ""
+msgstr "အရေပြားမရှိပါ - ပြန်လည်ထိန်းသိမ်းခြင်းကို ပယ်ဖျက်လိုက်ပါပြီ။"
 
 msgid "Would you really reset this skin?"
-msgstr ""
+msgstr "ဤအသားအရေကို အမှန်တကယ် ပြန်လည်သတ်မှတ်မည်လား။"
 
 msgid "play/show Files"
-msgstr ""
+msgstr "ဖိုင်များကိုဖွင့်/ပြသပါ။"

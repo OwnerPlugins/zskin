@@ -10,115 +10,115 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 
 msgid "All png are removed from folder!"
-msgstr ""
+msgstr "Öll png eru fjarlægð úr möppunni!"
 
 msgid "Close"
-msgstr ""
+msgstr "Loka"
 
 msgid "Current skin can not styled!"
-msgstr ""
+msgstr "Núverandi húð getur ekki stílað!"
 
 msgid "Default"
-msgstr ""
+msgstr "Sjálfgefið"
 
 msgid "Del Line"
 msgstr ""
 
 msgid "Exit"
-msgstr ""
+msgstr "Hætta"
 
 msgid "File Commander - Addon"
-msgstr ""
+msgstr "Skráarforingi - viðbót"
 
 msgid "Import Api Key OMDB from /tmp/omdbapikey.txt?"
-msgstr ""
+msgstr "Flytja inn Api Key OMDB frá /tmp/omdbapikey.txt?"
 
 msgid "Import Api Key TMDB from /tmp/tmdbapikey.txt?"
-msgstr ""
+msgstr "Flytja inn Api Key TMDB frá /tmp/tmdbapikey.txt?"
 
 msgid "Info..."
-msgstr ""
+msgstr "Upplýsingar..."
 
 msgid "Ins Line"
 msgstr ""
 
 msgid "Missing %s !"
-msgstr ""
+msgstr "Vantar %s!"
 
 msgid "No previous styled skin - restore canceled!"
-msgstr ""
+msgstr "Engin fyrri stílhúð - endurheimt hætt!"
 
 msgid "OMDB API:"
 msgstr ""
 
 msgid "OMDB ApiKey Imported & Stored!"
-msgstr ""
+msgstr "OMDB ApiKey flutt inn og geymd!"
 
 msgid "PRESET"
-msgstr ""
+msgstr "FORSETI"
 
 msgid "Preserve preview if not defined:"
-msgstr ""
+msgstr "Geymdu forskoðun ef ekki er skilgreint:"
 
 msgid "Read Apikey OMDB from file /tmp/omdbapikey.txt"
-msgstr ""
+msgstr "Lestu Apikey OMDB úr skránni /tmp/omdbapikey.txt"
 
 msgid "Read Apikey TMDB from file /tmp/tmdbapikey.txt"
-msgstr ""
+msgstr "Lestu Apikey TMDB úr skránni /tmp/tmdbapikey.txt"
 
 msgid "Read style configuration from skin:"
-msgstr ""
+msgstr "Lestu stílstillingar frá húð:"
 
 msgid "Remove all png Poster:"
-msgstr ""
+msgstr "Fjarlægðu allt png plakat:"
 
 msgid "Reset skin"
-msgstr ""
+msgstr "Endurstilla húð"
 
 msgid "Reset skin?"
-msgstr ""
+msgstr "Endurstilla húð?"
 
 msgid "Restart GUI now?"
-msgstr ""
+msgstr "Endurræsa GUI núna?"
 
 msgid "Save"
-msgstr ""
+msgstr "Vista"
 
 msgid "Set Your Apikey OMDB"
-msgstr ""
+msgstr "Stilltu Apikey OMDB þinn"
 
 msgid "Set Your Apikey TMDB"
-msgstr ""
+msgstr "Stilltu Apikey TMDB"
 
 msgid "Setup"
-msgstr ""
+msgstr "Uppsetning"
 
 msgid "Skin exist!! Do you really want to Upgrade?"
-msgstr ""
+msgstr "Húð er til!! Viltu virkilega uppfæra?"
 
 msgid "Skin update:"
-msgstr ""
+msgstr "Húðuppfærsla:"
 
 msgid "Style presets contains errors!"
-msgstr ""
+msgstr "Forstillingar stíla innihalda villur!"
 
 msgid "Style your zSkin"
-msgstr ""
+msgstr "Stíll zSkin þitt"
 
 msgid "TMDB API:"
 msgstr ""
 
 msgid "TMDB ApiKey Imported & Stored!"
-msgstr ""
+msgstr "TMDB ApiKey flutt inn og geymd!"
 
 msgid "The skin is not styled - restore canceled!"
-msgstr ""
+msgstr "Húðin er ekki stíluð - restore hætt!"
 
 msgid "The skin not exists - restore canceled!"
-msgstr ""
+msgstr "Húðin er ekki til - endurheimt hætt!"
 
 msgid "Would you really reset this skin?"
-msgstr ""
+msgstr "Myndir þú virkilega endurstilla þessa húð?"
 
 msgid "play/show Files"
-msgstr ""
+msgstr "spila/sýna skrár"

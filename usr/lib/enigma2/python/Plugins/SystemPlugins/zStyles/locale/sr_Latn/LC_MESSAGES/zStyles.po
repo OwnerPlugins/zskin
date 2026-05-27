@@ -10,115 +10,115 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 
 msgid "All png are removed from folder!"
-msgstr ""
+msgstr "Сви пнг су уклоњени из фасцикле!"
 
 msgid "Close"
-msgstr ""
+msgstr "Затвори"
 
 msgid "Current skin can not styled!"
-msgstr ""
+msgstr "Тренутна кожа се не може стилизовати!"
 
 msgid "Default"
-msgstr ""
+msgstr "Подразумевано"
 
 msgid "Del Line"
-msgstr ""
+msgstr "Дел Лине"
 
 msgid "Exit"
-msgstr ""
+msgstr "Изађи"
 
 msgid "File Commander - Addon"
-msgstr ""
+msgstr "Филе Цоммандер - Аддон"
 
 msgid "Import Api Key OMDB from /tmp/omdbapikey.txt?"
-msgstr ""
+msgstr "Да увезете Апи кључ ОМДБ из /тмп/омдбапикеи.ткт?"
 
 msgid "Import Api Key TMDB from /tmp/tmdbapikey.txt?"
-msgstr ""
+msgstr "Да увезете Апи кључ ТМДБ из /тмп/тмдбапикеи.ткт?"
 
 msgid "Info..."
-msgstr ""
+msgstr "Инфо..."
 
 msgid "Ins Line"
-msgstr ""
+msgstr "Инс Лине"
 
 msgid "Missing %s !"
-msgstr ""
+msgstr "Недостаје %с!"
 
 msgid "No previous styled skin - restore canceled!"
-msgstr ""
+msgstr "Нема претходно стилизоване коже - враћање је отказано!"
 
 msgid "OMDB API:"
-msgstr ""
+msgstr "ОМДБ АПИ:"
 
 msgid "OMDB ApiKey Imported & Stored!"
-msgstr ""
+msgstr "ОМДБ АпиКеи увезен и сачуван!"
 
 msgid "PRESET"
-msgstr ""
+msgstr "ПРЕСЕТ"
 
 msgid "Preserve preview if not defined:"
-msgstr ""
+msgstr "Сачувај преглед ако није дефинисан:"
 
 msgid "Read Apikey OMDB from file /tmp/omdbapikey.txt"
-msgstr ""
+msgstr "Прочитајте Апикеи ОМДБ из датотеке /тмп/омдбапикеи.ткт"
 
 msgid "Read Apikey TMDB from file /tmp/tmdbapikey.txt"
-msgstr ""
+msgstr "Прочитајте Апикеи ТМДБ из датотеке /тмп/тмдбапикеи.ткт"
 
 msgid "Read style configuration from skin:"
-msgstr ""
+msgstr "Прочитајте конфигурацију стила из коже:"
 
 msgid "Remove all png Poster:"
-msgstr ""
+msgstr "Уклони све пнг постер:"
 
 msgid "Reset skin"
-msgstr ""
+msgstr "Ресетујте кожу"
 
 msgid "Reset skin?"
-msgstr ""
+msgstr "Ресетовати кожу?"
 
 msgid "Restart GUI now?"
-msgstr ""
+msgstr "Поново покренути ГУИ сада?"
 
 msgid "Save"
-msgstr ""
+msgstr "Сачувај"
 
 msgid "Set Your Apikey OMDB"
-msgstr ""
+msgstr "Подесите свој Апикеи ОМДБ"
 
 msgid "Set Your Apikey TMDB"
-msgstr ""
+msgstr "Подесите свој Апикеи ТМДБ"
 
 msgid "Setup"
-msgstr ""
+msgstr "Сетуп"
 
 msgid "Skin exist!! Do you really want to Upgrade?"
-msgstr ""
+msgstr "Кожа постоји!! Да ли заиста желите да надоградите?"
 
 msgid "Skin update:"
-msgstr ""
+msgstr "Ажурирање коже:"
 
 msgid "Style presets contains errors!"
-msgstr ""
+msgstr "Унапред подешени стилови садрже грешке!"
 
 msgid "Style your zSkin"
-msgstr ""
+msgstr "Стилизирајте свој зСкин"
 
 msgid "TMDB API:"
-msgstr ""
+msgstr "ТМДБ АПИ:"
 
 msgid "TMDB ApiKey Imported & Stored!"
-msgstr ""
+msgstr "ТМДБ АпиКеи увезен и сачуван!"
 
 msgid "The skin is not styled - restore canceled!"
-msgstr ""
+msgstr "Кожа није стилизована - рестаурација отказана!"
 
 msgid "The skin not exists - restore canceled!"
-msgstr ""
+msgstr "Кожа не постоји - рестаурација отказана!"
 
 msgid "Would you really reset this skin?"
-msgstr ""
+msgstr "Да ли бисте заиста ресетовали ову кожу?"
 
 msgid "play/show Files"
-msgstr ""
+msgstr "пусти/прикажи датотеке"

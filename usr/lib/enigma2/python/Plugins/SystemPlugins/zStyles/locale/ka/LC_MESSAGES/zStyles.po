@@ -10,115 +10,115 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 
 msgid "All png are removed from folder!"
-msgstr ""
+msgstr "ყველა png ამოღებულია საქაღალდიდან!"
 
 msgid "Close"
-msgstr ""
+msgstr "დახურვა"
 
 msgid "Current skin can not styled!"
-msgstr ""
+msgstr "ამჟამინდელი კანის სტილი არ შეიძლება!"
 
 msgid "Default"
-msgstr ""
+msgstr "ნაგულისხმევი"
 
 msgid "Del Line"
-msgstr ""
+msgstr "დელ ლაინი"
 
 msgid "Exit"
-msgstr ""
+msgstr "გასვლა"
 
 msgid "File Commander - Addon"
-msgstr ""
+msgstr "ფაილის მეთაური - Addon"
 
 msgid "Import Api Key OMDB from /tmp/omdbapikey.txt?"
-msgstr ""
+msgstr "გსურთ Api Key OMDB-ის იმპორტი /tmp/omdbapikey.txt-დან?"
 
 msgid "Import Api Key TMDB from /tmp/tmdbapikey.txt?"
-msgstr ""
+msgstr "გსურთ Api Key TMDB-ის იმპორტი /tmp/tmdbapikey.txt-დან?"
 
 msgid "Info..."
-msgstr ""
+msgstr "ინფორმაცია..."
 
 msgid "Ins Line"
 msgstr ""
 
 msgid "Missing %s !"
-msgstr ""
+msgstr "აკლია %s !"
 
 msgid "No previous styled skin - restore canceled!"
-msgstr ""
+msgstr "წინა სტილის კანი არ არის - აღდგენა გაუქმებულია!"
 
 msgid "OMDB API:"
 msgstr ""
 
 msgid "OMDB ApiKey Imported & Stored!"
-msgstr ""
+msgstr "OMDB ApiKey იმპორტირებული და შენახული!"
 
 msgid "PRESET"
-msgstr ""
+msgstr "წინასწარ დაყენებული"
 
 msgid "Preserve preview if not defined:"
-msgstr ""
+msgstr "წინასწარი გადახედვის შენარჩუნება, თუ არ არის განსაზღვრული:"
 
 msgid "Read Apikey OMDB from file /tmp/omdbapikey.txt"
-msgstr ""
+msgstr "წაიკითხეთ Apikey OMDB ფაილიდან /tmp/omdbapikey.txt"
 
 msgid "Read Apikey TMDB from file /tmp/tmdbapikey.txt"
-msgstr ""
+msgstr "წაიკითხეთ Apikey TMDB ფაილიდან /tmp/tmdbapikey.txt"
 
 msgid "Read style configuration from skin:"
-msgstr ""
+msgstr "წაიკითხეთ სტილის კონფიგურაცია კანიდან:"
 
 msgid "Remove all png Poster:"
-msgstr ""
+msgstr "ყველა png პოსტერის წაშლა:"
 
 msgid "Reset skin"
-msgstr ""
+msgstr "კანის გადატვირთვა"
 
 msgid "Reset skin?"
-msgstr ""
+msgstr "გადააყენეთ კანი?"
 
 msgid "Restart GUI now?"
-msgstr ""
+msgstr "გადატვირთოთ GUI ახლა?"
 
 msgid "Save"
-msgstr ""
+msgstr "შენახვა"
 
 msgid "Set Your Apikey OMDB"
-msgstr ""
+msgstr "დააყენეთ თქვენი Apikey OMDB"
 
 msgid "Set Your Apikey TMDB"
-msgstr ""
+msgstr "დააყენეთ თქვენი Apikey TMDB"
 
 msgid "Setup"
-msgstr ""
+msgstr "დაყენება"
 
 msgid "Skin exist!! Do you really want to Upgrade?"
-msgstr ""
+msgstr "კანი არსებობს!! ნამდვილად გსურთ განახლება?"
 
 msgid "Skin update:"
-msgstr ""
+msgstr "კანის განახლება:"
 
 msgid "Style presets contains errors!"
-msgstr ""
+msgstr "სტილის წინასწარ დაყენებები შეიცავს შეცდომებს!"
 
 msgid "Style your zSkin"
-msgstr ""
+msgstr "შექმენით თქვენი zSkin სტილი"
 
 msgid "TMDB API:"
 msgstr ""
 
 msgid "TMDB ApiKey Imported & Stored!"
-msgstr ""
+msgstr "TMDB ApiKey იმპორტირებული და შენახული!"
 
 msgid "The skin is not styled - restore canceled!"
-msgstr ""
+msgstr "კანი არ არის სტილიზებული - აღდგენა გაუქმებულია!"
 
 msgid "The skin not exists - restore canceled!"
-msgstr ""
+msgstr "კანი არ არსებობს - აღდგენა გაუქმებულია!"
 
 msgid "Would you really reset this skin?"
-msgstr ""
+msgstr "ნამდვილად გადატვირთავ ამ სკინს?"
 
 msgid "play/show Files"
-msgstr ""
+msgstr "ფაილების დაკვრა/ჩვენება"

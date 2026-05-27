@@ -18,7 +18,7 @@ msgstr ""
 "X-Poedit-SearchPath-0: ../../..\n"
 
 msgid "All png are removed from folder!"
-msgstr ""
+msgstr "Alle PNGs werden aus dem Ordner entfernt!"
 
 msgid "Close"
 msgstr "Schließen"
@@ -48,7 +48,7 @@ msgid "Info..."
 msgstr ""
 
 msgid "Ins Line"
-msgstr ""
+msgstr "Ins-Linie"
 
 msgid "Missing %s !"
 msgstr "%s fehlt!"
@@ -57,7 +57,7 @@ msgid "No previous styled skin - restore canceled!"
 msgstr "Kein zuvor gestylter Skin - Wiederherstellung abgebrochen!"
 
 msgid "OMDB API:"
-msgstr ""
+msgstr "OMDB-API:"
 
 msgid "OMDB ApiKey Imported & Stored!"
 msgstr "OMDB ApiKey Imported & Stored!"
@@ -78,7 +78,7 @@ msgid "Read style configuration from skin:"
 msgstr "Lese Style Konfiguration vom Skin:"
 
 msgid "Remove all png Poster:"
-msgstr ""
+msgstr "Alle PNG-Poster entfernen:"
 
 msgid "Reset skin"
 msgstr "Reset Skin"
@@ -114,7 +114,7 @@ msgid "Style your zSkin"
 msgstr "Stylen Sie Ihren zSkin"
 
 msgid "TMDB API:"
-msgstr ""
+msgstr "TMDB-API:"
 
 msgid "TMDB ApiKey Imported & Stored!"
 msgstr "TMDB ApiKey importiert und gespeichert!"

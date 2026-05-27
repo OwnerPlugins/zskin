@@ -10,115 +10,115 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 
 msgid "All png are removed from folder!"
-msgstr ""
+msgstr "ሁሉም png ከአቃፊ ተወግደዋል!"
 
 msgid "Close"
-msgstr ""
+msgstr "ገጠመ"
 
 msgid "Current skin can not styled!"
-msgstr ""
+msgstr "አሁን ያለው ቆዳ በቅጥ መስተካከል አይችልም!"
 
 msgid "Default"
-msgstr ""
+msgstr "ነባሪ"
 
 msgid "Del Line"
-msgstr ""
+msgstr "ዴል መስመር"
 
 msgid "Exit"
-msgstr ""
+msgstr "ውጣ"
 
 msgid "File Commander - Addon"
-msgstr ""
+msgstr "የፋይል አዛዥ - አዶን"
 
 msgid "Import Api Key OMDB from /tmp/omdbapikey.txt?"
-msgstr ""
+msgstr "Api Key OMDB ከ /tmp/omdbapikey.txt አስመጣ?"
 
 msgid "Import Api Key TMDB from /tmp/tmdbapikey.txt?"
-msgstr ""
+msgstr "የኤፒ ቁልፍ TMDB ከ /tmp/tmdbapikey.txt አስመጣ?"
 
 msgid "Info..."
-msgstr ""
+msgstr "መረጃ..."
 
 msgid "Ins Line"
-msgstr ""
+msgstr "ኢንስ መስመር"
 
 msgid "Missing %s !"
-msgstr ""
+msgstr "%s ይጎድላል!"
 
 msgid "No previous styled skin - restore canceled!"
-msgstr ""
+msgstr "ምንም ቀዳሚ የቅጥ የተሰራ ቆዳ የለም - ወደነበረበት መመለስ ተሰርዟል!"
 
 msgid "OMDB API:"
-msgstr ""
+msgstr "OMDB ኤፒአይ፡"
 
 msgid "OMDB ApiKey Imported & Stored!"
-msgstr ""
+msgstr "OMDB ApiKey መጥቷል እና ተከማችቷል!"
 
 msgid "PRESET"
-msgstr ""
+msgstr "ቅድመ ሁኔታ"
 
 msgid "Preserve preview if not defined:"
-msgstr ""
+msgstr "ካልተገለጸ ቅድመ እይታን አስቀምጥ፡-"
 
 msgid "Read Apikey OMDB from file /tmp/omdbapikey.txt"
-msgstr ""
+msgstr "Apikey OMDB ከፋይል /tmp/omdbapikey.txt አንብብ"
 
 msgid "Read Apikey TMDB from file /tmp/tmdbapikey.txt"
-msgstr ""
+msgstr "Apikey TMDB ከፋይል /tmp/tmdbapikey.txt አንብብ"
 
 msgid "Read style configuration from skin:"
-msgstr ""
+msgstr "የቅጥ ውቅር ከቆዳ አንብብ፡-"
 
 msgid "Remove all png Poster:"
-msgstr ""
+msgstr "ሁሉንም png ፖስተር አስወግድ፡"
 
 msgid "Reset skin"
-msgstr ""
+msgstr "ቆዳን እንደገና ያስጀምሩ"
 
 msgid "Reset skin?"
-msgstr ""
+msgstr "ቆዳ እንደገና ይጀምር?"
 
 msgid "Restart GUI now?"
-msgstr ""
+msgstr "GUI አሁን እንደገና ይጀመር?"
 
 msgid "Save"
-msgstr ""
+msgstr "አስቀምጥ"
 
 msgid "Set Your Apikey OMDB"
-msgstr ""
+msgstr "የእርስዎን Apikey OMDB ያዘጋጁ"
 
 msgid "Set Your Apikey TMDB"
-msgstr ""
+msgstr "የእርስዎን Apkey TMDB ያዘጋጁ"
 
 msgid "Setup"
-msgstr ""
+msgstr "ማዋቀር"
 
 msgid "Skin exist!! Do you really want to Upgrade?"
-msgstr ""
+msgstr "ቆዳ አለ!! በእርግጥ ማሻሻል ይፈልጋሉ?"
 
 msgid "Skin update:"
-msgstr ""
+msgstr "የቆዳ ዝማኔ;"
 
 msgid "Style presets contains errors!"
-msgstr ""
+msgstr "የቅጥ ቅድመ-ቅምጦች ስህተቶች አሉት!"
 
 msgid "Style your zSkin"
-msgstr ""
+msgstr "የእርስዎን zSkin ቅጥ ያድርጉ"
 
 msgid "TMDB API:"
-msgstr ""
+msgstr "TMDB ኤፒአይ፡"
 
 msgid "TMDB ApiKey Imported & Stored!"
-msgstr ""
+msgstr "TMDB ApiKey መጥቷል እና ተከማችቷል!"
 
 msgid "The skin is not styled - restore canceled!"
-msgstr ""
+msgstr "ቆዳው አልተሰራም - ወደነበረበት መመለስ ተሰርዟል!"
 
 msgid "The skin not exists - restore canceled!"
-msgstr ""
+msgstr "ቆዳው የለም - ወደነበረበት መመለስ ተሰርዟል!"
 
 msgid "Would you really reset this skin?"
-msgstr ""
+msgstr "ይህን ቆዳ በእርግጥ ዳግም ያስጀምሩት?"
 
 msgid "play/show Files"
-msgstr ""
+msgstr "ፋይሎችን አጫውት/አሳይ"

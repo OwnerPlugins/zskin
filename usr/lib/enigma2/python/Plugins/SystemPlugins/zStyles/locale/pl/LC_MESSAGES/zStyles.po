@@ -11,115 +11,115 @@ msgstr ""
 "Plural-Forms: nplurals=3; plural=(n==1 ? 0 : n%10>=2 && n%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2);\n"
 
 msgid "All png are removed from folder!"
-msgstr ""
+msgstr "Wszystkie png zostały usunięte z folderu!"
 
 msgid "Close"
-msgstr ""
+msgstr "Zamknąć"
 
 msgid "Current skin can not styled!"
-msgstr ""
+msgstr "Obecna skóra nie może być stylizowana!"
 
 msgid "Default"
-msgstr ""
+msgstr "Domyślny"
 
 msgid "Del Line"
-msgstr ""
+msgstr "Linia Del"
 
 msgid "Exit"
-msgstr ""
+msgstr "Wyjście"
 
 msgid "File Commander - Addon"
-msgstr ""
+msgstr "Dowódca plików - dodatek"
 
 msgid "Import Api Key OMDB from /tmp/omdbapikey.txt?"
-msgstr ""
+msgstr "Zaimportować klucz API OMDB z /tmp/omdbapikey.txt?"
 
 msgid "Import Api Key TMDB from /tmp/tmdbapikey.txt?"
-msgstr ""
+msgstr "Zaimportować klucz API TMDB z /tmp/tmdbapikey.txt?"
 
 msgid "Info..."
-msgstr ""
+msgstr "Informacje..."
 
 msgid "Ins Line"
-msgstr ""
+msgstr "Linia Ins"
 
 msgid "Missing %s !"
-msgstr ""
+msgstr "Brakuje %s!"
 
 msgid "No previous styled skin - restore canceled!"
-msgstr ""
+msgstr "Brak poprzedniej stylizowanej skórki – przywracanie anulowane!"
 
 msgid "OMDB API:"
-msgstr ""
+msgstr "API OMDB:"
 
 msgid "OMDB ApiKey Imported & Stored!"
-msgstr ""
+msgstr "Import i przechowywanie OMDB ApiKey!"
 
 msgid "PRESET"
-msgstr ""
+msgstr "USTAWIONE"
 
 msgid "Preserve preview if not defined:"
-msgstr ""
+msgstr "Zachowaj podgląd, jeśli nie został zdefiniowany:"
 
 msgid "Read Apikey OMDB from file /tmp/omdbapikey.txt"
-msgstr ""
+msgstr "Przeczytaj Apikey OMDB z pliku /tmp/omdbapikey.txt"
 
 msgid "Read Apikey TMDB from file /tmp/tmdbapikey.txt"
-msgstr ""
+msgstr "Przeczytaj Apikey TMDB z pliku /tmp/tmdbapikey.txt"
 
 msgid "Read style configuration from skin:"
-msgstr ""
+msgstr "Przeczytaj konfigurację stylu ze skórki:"
 
 msgid "Remove all png Poster:"
-msgstr ""
+msgstr "Usuń cały plakat png:"
 
 msgid "Reset skin"
-msgstr ""
+msgstr "Zresetuj skórę"
 
 msgid "Reset skin?"
-msgstr ""
+msgstr "Zresetować skórę?"
 
 msgid "Restart GUI now?"
-msgstr ""
+msgstr "Zrestartować GUI teraz?"
 
 msgid "Save"
-msgstr ""
+msgstr "Ratować"
 
 msgid "Set Your Apikey OMDB"
-msgstr ""
+msgstr "Ustaw swój Apikey OMDB"
 
 msgid "Set Your Apikey TMDB"
-msgstr ""
+msgstr "Ustaw swoją bazę danych Apikey TMDB"
 
 msgid "Setup"
-msgstr ""
+msgstr "Organizować coś"
 
 msgid "Skin exist!! Do you really want to Upgrade?"
-msgstr ""
+msgstr "Skóra istnieje!! Czy na pewno chcesz dokonać aktualizacji?"
 
 msgid "Skin update:"
-msgstr ""
+msgstr "Aktualizacja skórki:"
 
 msgid "Style presets contains errors!"
-msgstr ""
+msgstr "Gotowe ustawienia stylu zawierają błędy!"
 
 msgid "Style your zSkin"
-msgstr ""
+msgstr "Stylizuj swojego zSkin"
 
 msgid "TMDB API:"
-msgstr ""
+msgstr "API TMDB:"
 
 msgid "TMDB ApiKey Imported & Stored!"
-msgstr ""
+msgstr "Import i przechowywanie TMDB ApiKey!"
 
 msgid "The skin is not styled - restore canceled!"
-msgstr ""
+msgstr "Skóra nie jest wystylizowana - przywracanie anulowane!"
 
 msgid "The skin not exists - restore canceled!"
-msgstr ""
+msgstr "Skórka nie istnieje - przywracanie anulowane!"
 
 msgid "Would you really reset this skin?"
-msgstr ""
+msgstr "Czy naprawdę zresetowałbyś tę skórkę?"
 
 msgid "play/show Files"
-msgstr ""
+msgstr "odtwarzaj/pokaż pliki"

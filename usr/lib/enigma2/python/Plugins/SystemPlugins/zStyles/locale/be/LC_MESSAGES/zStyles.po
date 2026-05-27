@@ -11,115 +11,115 @@ msgstr ""
 "Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && n%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2);\n"
 
 msgid "All png are removed from folder!"
-msgstr ""
+msgstr "Усе png выдаляюцца з папкі!"
 
 msgid "Close"
-msgstr ""
+msgstr "Блізка"
 
 msgid "Current skin can not styled!"
-msgstr ""
+msgstr "Бягучая скура не можа быць стылізавана!"
 
 msgid "Default"
-msgstr ""
+msgstr "Па змаўчанні"
 
 msgid "Del Line"
-msgstr ""
+msgstr "Дэль Лайн"
 
 msgid "Exit"
-msgstr ""
+msgstr "Выхад"
 
 msgid "File Commander - Addon"
-msgstr ""
+msgstr "File Commander - адон"
 
 msgid "Import Api Key OMDB from /tmp/omdbapikey.txt?"
-msgstr ""
+msgstr "Імпартаваць ключ API OMDB з /tmp/omdbapikey.txt?"
 
 msgid "Import Api Key TMDB from /tmp/tmdbapikey.txt?"
-msgstr ""
+msgstr "Імпартаваць ключ API TMDB з /tmp/tmdbapikey.txt?"
 
 msgid "Info..."
-msgstr ""
+msgstr "інфармацыя..."
 
 msgid "Ins Line"
-msgstr ""
+msgstr "Лінія Ins"
 
 msgid "Missing %s !"
-msgstr ""
+msgstr "Адсутнічае %s!"
 
 msgid "No previous styled skin - restore canceled!"
-msgstr ""
+msgstr "Няма папярэдняга стылю скіна - аднаўленне адменена!"
 
 msgid "OMDB API:"
-msgstr ""
+msgstr "API OMDB:"
 
 msgid "OMDB ApiKey Imported & Stored!"
-msgstr ""
+msgstr "Імпартаваны і захаваны OMDB ApiKey!"
 
 msgid "PRESET"
-msgstr ""
+msgstr "ПРАДУСТАЎКА"
 
 msgid "Preserve preview if not defined:"
-msgstr ""
+msgstr "Захаваць папярэдні прагляд, калі не вызначана:"
 
 msgid "Read Apikey OMDB from file /tmp/omdbapikey.txt"
-msgstr ""
+msgstr "Чытайце Apikey OMDB з файла /tmp/omdbapikey.txt"
 
 msgid "Read Apikey TMDB from file /tmp/tmdbapikey.txt"
-msgstr ""
+msgstr "Прачытайце Apikey TMDB з файла /tmp/tmdbapikey.txt"
 
 msgid "Read style configuration from skin:"
-msgstr ""
+msgstr "Прачытайце канфігурацыю стылю са скіна:"
 
 msgid "Remove all png Poster:"
-msgstr ""
+msgstr "Выдаліць усе плакаты png:"
 
 msgid "Reset skin"
-msgstr ""
+msgstr "Скінуць скін"
 
 msgid "Reset skin?"
-msgstr ""
+msgstr "Скінуць скін?"
 
 msgid "Restart GUI now?"
-msgstr ""
+msgstr "Перазапусціць GUI?"
 
 msgid "Save"
-msgstr ""
+msgstr "Захаваць"
 
 msgid "Set Your Apikey OMDB"
-msgstr ""
+msgstr "Усталюйце Apikey OMDB"
 
 msgid "Set Your Apikey TMDB"
-msgstr ""
+msgstr "Усталюйце Apikey TMDB"
 
 msgid "Setup"
-msgstr ""
+msgstr "Настройка"
 
 msgid "Skin exist!! Do you really want to Upgrade?"
-msgstr ""
+msgstr "Скін існуе!! Вы сапраўды хочаце абнавіць?"
 
 msgid "Skin update:"
-msgstr ""
+msgstr "Абнаўленне скіна:"
 
 msgid "Style presets contains errors!"
-msgstr ""
+msgstr "Налады стылю ўтрымліваюць памылкі!"
 
 msgid "Style your zSkin"
-msgstr ""
+msgstr "Стылізуйце свой zSkin"
 
 msgid "TMDB API:"
-msgstr ""
+msgstr "API TMDB:"
 
 msgid "TMDB ApiKey Imported & Stored!"
-msgstr ""
+msgstr "TMDB ApiKey імпартаваны і захаваны!"
 
 msgid "The skin is not styled - restore canceled!"
-msgstr ""
+msgstr "Скін не стылізаваны - аднаўленне адменена!"
 
 msgid "The skin not exists - restore canceled!"
-msgstr ""
+msgstr "Скін не існуе - аднаўленне адменена!"
 
 msgid "Would you really reset this skin?"
-msgstr ""
+msgstr "Вы б сапраўды скінулі гэты скін?"
 
 msgid "play/show Files"
-msgstr ""
+msgstr "прайграваць/паказваць файлы"

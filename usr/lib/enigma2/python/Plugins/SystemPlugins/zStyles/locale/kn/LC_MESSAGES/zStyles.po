@@ -10,115 +10,115 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 
 msgid "All png are removed from folder!"
-msgstr ""
+msgstr "ಎಲ್ಲಾ png ಅನ್ನು ಫೋಲ್ಡರ್‌ನಿಂದ ತೆಗೆದುಹಾಕಲಾಗಿದೆ!"
 
 msgid "Close"
-msgstr ""
+msgstr "ಮುಚ್ಚಿ"
 
 msgid "Current skin can not styled!"
-msgstr ""
+msgstr "ಪ್ರಸ್ತುತ ಚರ್ಮವನ್ನು ವಿನ್ಯಾಸಗೊಳಿಸಲು ಸಾಧ್ಯವಿಲ್ಲ!"
 
 msgid "Default"
-msgstr ""
+msgstr "ಡೀಫಾಲ್ಟ್"
 
 msgid "Del Line"
-msgstr ""
+msgstr "ಡೆಲ್ ಲೈನ್"
 
 msgid "Exit"
-msgstr ""
+msgstr "ನಿರ್ಗಮಿಸಿ"
 
 msgid "File Commander - Addon"
-msgstr ""
+msgstr "ಫೈಲ್ ಕಮಾಂಡರ್ - Addon"
 
 msgid "Import Api Key OMDB from /tmp/omdbapikey.txt?"
-msgstr ""
+msgstr "Api ಕೀ OMDB ಅನ್ನು /tmp/omdbapikey.txt ನಿಂದ ಆಮದು ಮಾಡಿಕೊಳ್ಳುವುದೇ?"
 
 msgid "Import Api Key TMDB from /tmp/tmdbapikey.txt?"
-msgstr ""
+msgstr "Api ಕೀ TMDB ಅನ್ನು /tmp/tmdbapikey.txt ನಿಂದ ಆಮದು ಮಾಡಿಕೊಳ್ಳುವುದೇ?"
 
 msgid "Info..."
-msgstr ""
+msgstr "ಮಾಹಿತಿ..."
 
 msgid "Ins Line"
-msgstr ""
+msgstr "ಇನ್ಸ್ ಲೈನ್"
 
 msgid "Missing %s !"
-msgstr ""
+msgstr "%s ಕಾಣೆಯಾಗಿದೆ!"
 
 msgid "No previous styled skin - restore canceled!"
-msgstr ""
+msgstr "ಹಿಂದಿನ ಶೈಲಿಯ ಚರ್ಮವಿಲ್ಲ - ಮರುಸ್ಥಾಪನೆ ರದ್ದುಗೊಳಿಸಲಾಗಿದೆ!"
 
 msgid "OMDB API:"
 msgstr ""
 
 msgid "OMDB ApiKey Imported & Stored!"
-msgstr ""
+msgstr "OMDB ApiKey ಆಮದು ಮಾಡಲಾಗಿದೆ ಮತ್ತು ಸಂಗ್ರಹಿಸಲಾಗಿದೆ!"
 
 msgid "PRESET"
-msgstr ""
+msgstr "ಪೂರ್ವನಿಗದಿ"
 
 msgid "Preserve preview if not defined:"
-msgstr ""
+msgstr "ವ್ಯಾಖ್ಯಾನಿಸದಿದ್ದಲ್ಲಿ ಪೂರ್ವವೀಕ್ಷಣೆಯನ್ನು ಸಂರಕ್ಷಿಸಿ:"
 
 msgid "Read Apikey OMDB from file /tmp/omdbapikey.txt"
-msgstr ""
+msgstr "ಫೈಲ್ /tmp/omdbapikey.txt ನಿಂದ Apikey OMDB ಓದಿ"
 
 msgid "Read Apikey TMDB from file /tmp/tmdbapikey.txt"
-msgstr ""
+msgstr "ಫೈಲ್ /tmp/tmdbapikey.txt ನಿಂದ Apikey TMDB ಓದಿ"
 
 msgid "Read style configuration from skin:"
-msgstr ""
+msgstr "ಚರ್ಮದಿಂದ ಶೈಲಿಯ ಸಂರಚನೆಯನ್ನು ಓದಿ:"
 
 msgid "Remove all png Poster:"
-msgstr ""
+msgstr "ಎಲ್ಲಾ png ಪೋಸ್ಟರ್ ತೆಗೆದುಹಾಕಿ:"
 
 msgid "Reset skin"
-msgstr ""
+msgstr "ಚರ್ಮವನ್ನು ಮರುಹೊಂದಿಸಿ"
 
 msgid "Reset skin?"
-msgstr ""
+msgstr "ಚರ್ಮವನ್ನು ಮರುಹೊಂದಿಸುವುದೇ?"
 
 msgid "Restart GUI now?"
-msgstr ""
+msgstr "GUI ಅನ್ನು ಇದೀಗ ಮರುಪ್ರಾರಂಭಿಸುವುದೇ?"
 
 msgid "Save"
-msgstr ""
+msgstr "ಉಳಿಸಿ"
 
 msgid "Set Your Apikey OMDB"
-msgstr ""
+msgstr "ನಿಮ್ಮ Apikey OMDB ಅನ್ನು ಹೊಂದಿಸಿ"
 
 msgid "Set Your Apikey TMDB"
-msgstr ""
+msgstr "ನಿಮ್ಮ Apikey TMDB ಅನ್ನು ಹೊಂದಿಸಿ"
 
 msgid "Setup"
-msgstr ""
+msgstr "ಸೆಟಪ್"
 
 msgid "Skin exist!! Do you really want to Upgrade?"
-msgstr ""
+msgstr "ಚರ್ಮ ಅಸ್ತಿತ್ವದಲ್ಲಿದೆ !! ನೀವು ನಿಜವಾಗಿಯೂ ಅಪ್‌ಗ್ರೇಡ್ ಮಾಡಲು ಬಯಸುವಿರಾ?"
 
 msgid "Skin update:"
-msgstr ""
+msgstr "ಚರ್ಮದ ನವೀಕರಣ:"
 
 msgid "Style presets contains errors!"
-msgstr ""
+msgstr "ಸ್ಟೈಲ್ ಪೂರ್ವನಿಗದಿಗಳು ದೋಷಗಳನ್ನು ಒಳಗೊಂಡಿವೆ!"
 
 msgid "Style your zSkin"
-msgstr ""
+msgstr "ನಿಮ್ಮ zSkin ಸ್ಟೈಲ್ ಮಾಡಿ"
 
 msgid "TMDB API:"
 msgstr ""
 
 msgid "TMDB ApiKey Imported & Stored!"
-msgstr ""
+msgstr "TMDB ApiKey ಆಮದು ಮಾಡಲಾಗಿದೆ ಮತ್ತು ಸಂಗ್ರಹಿಸಲಾಗಿದೆ!"
 
 msgid "The skin is not styled - restore canceled!"
-msgstr ""
+msgstr "ಚರ್ಮವನ್ನು ವಿನ್ಯಾಸಗೊಳಿಸಲಾಗಿಲ್ಲ - ಮರುಸ್ಥಾಪನೆ ರದ್ದುಗೊಳಿಸಲಾಗಿದೆ!"
 
 msgid "The skin not exists - restore canceled!"
-msgstr ""
+msgstr "ಚರ್ಮವು ಅಸ್ತಿತ್ವದಲ್ಲಿಲ್ಲ - ಮರುಸ್ಥಾಪನೆ ರದ್ದುಗೊಂಡಿದೆ!"
 
 msgid "Would you really reset this skin?"
-msgstr ""
+msgstr "ನೀವು ನಿಜವಾಗಿಯೂ ಈ ಚರ್ಮವನ್ನು ಮರುಹೊಂದಿಸುವಿರಾ?"
 
 msgid "play/show Files"
-msgstr ""
+msgstr "ಫೈಲ್‌ಗಳನ್ನು ಪ್ಲೇ ಮಾಡಿ/ತೋರಿಸಿ"

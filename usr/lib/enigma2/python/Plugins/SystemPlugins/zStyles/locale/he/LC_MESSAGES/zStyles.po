@@ -11,115 +11,115 @@ msgstr ""
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
 
 msgid "All png are removed from folder!"
-msgstr ""
+msgstr "כל ה-png מוסרים מהתיקייה!"
 
 msgid "Close"
-msgstr ""
+msgstr "לִסְגוֹר"
 
 msgid "Current skin can not styled!"
-msgstr ""
+msgstr "העור הנוכחי לא יכול לעצב!"
 
 msgid "Default"
-msgstr ""
+msgstr "בְּרִירַת מֶחדָל"
 
 msgid "Del Line"
-msgstr ""
+msgstr "דל ליין"
 
 msgid "Exit"
-msgstr ""
+msgstr "יְצִיאָה"
 
 msgid "File Commander - Addon"
-msgstr ""
+msgstr "מפקד קבצים - Addon"
 
 msgid "Import Api Key OMDB from /tmp/omdbapikey.txt?"
-msgstr ""
+msgstr "לייבא מפתח API OMDB מ-/tmp/omdbapikey.txt?"
 
 msgid "Import Api Key TMDB from /tmp/tmdbapikey.txt?"
-msgstr ""
+msgstr "לייבא מפתח API TMDB מ-/tmp/tmdbapikey.txt?"
 
 msgid "Info..."
-msgstr ""
+msgstr "מידע..."
 
 msgid "Ins Line"
 msgstr ""
 
 msgid "Missing %s !"
-msgstr ""
+msgstr "חסר %s!"
 
 msgid "No previous styled skin - restore canceled!"
-msgstr ""
+msgstr "ללא עור מעוצב קודם - השיקום בוטל!"
 
 msgid "OMDB API:"
 msgstr ""
 
 msgid "OMDB ApiKey Imported & Stored!"
-msgstr ""
+msgstr "OMDB ApiKey מיובא ומאוחסן!"
 
 msgid "PRESET"
-msgstr ""
+msgstr "הגדרה מראש"
 
 msgid "Preserve preview if not defined:"
 msgstr ""
 
 msgid "Read Apikey OMDB from file /tmp/omdbapikey.txt"
-msgstr ""
+msgstr "קרא את Apikey OMDB מהקובץ /tmp/omdbapikey.txt"
 
 msgid "Read Apikey TMDB from file /tmp/tmdbapikey.txt"
-msgstr ""
+msgstr "קרא את Apikey TMDB מהקובץ /tmp/tmdbapikey.txt"
 
 msgid "Read style configuration from skin:"
-msgstr ""
+msgstr "קרא את תצורת הסגנון מהעור:"
 
 msgid "Remove all png Poster:"
-msgstr ""
+msgstr "הסר את כל הפוסטר ב-png:"
 
 msgid "Reset skin"
-msgstr ""
+msgstr "אפס את העור"
 
 msgid "Reset skin?"
-msgstr ""
+msgstr "לאפס את העור?"
 
 msgid "Restart GUI now?"
-msgstr ""
+msgstr "להפעיל מחדש את GUI עכשיו?"
 
 msgid "Save"
-msgstr ""
+msgstr "לְהַצִיל"
 
 msgid "Set Your Apikey OMDB"
-msgstr ""
+msgstr "הגדר את ה-Apikey OMDB שלך"
 
 msgid "Set Your Apikey TMDB"
-msgstr ""
+msgstr "הגדר את ה-Apikey TMDB שלך"
 
 msgid "Setup"
-msgstr ""
+msgstr "הגדרה"
 
 msgid "Skin exist!! Do you really want to Upgrade?"
-msgstr ""
+msgstr "עור קיים!! האם אתה באמת רוצה לשדרג?"
 
 msgid "Skin update:"
-msgstr ""
+msgstr "עדכון עור:"
 
 msgid "Style presets contains errors!"
-msgstr ""
+msgstr "הגדרות קבועות מראש של סגנון מכילות שגיאות!"
 
 msgid "Style your zSkin"
-msgstr ""
+msgstr "סגנון ה-zSkin שלך"
 
 msgid "TMDB API:"
 msgstr ""
 
 msgid "TMDB ApiKey Imported & Stored!"
-msgstr ""
+msgstr "TMDB ApiKey מיובא ומאוחסן!"
 
 msgid "The skin is not styled - restore canceled!"
-msgstr ""
+msgstr "העור לא מעוצב - השיקום בוטל!"
 
 msgid "The skin not exists - restore canceled!"
-msgstr ""
+msgstr "העור לא קיים - השיקום בוטל!"
 
 msgid "Would you really reset this skin?"
-msgstr ""
+msgstr "האם באמת היית מאפס את העור הזה?"
 
 msgid "play/show Files"
-msgstr ""
+msgstr "הפעל/הצג קבצים"

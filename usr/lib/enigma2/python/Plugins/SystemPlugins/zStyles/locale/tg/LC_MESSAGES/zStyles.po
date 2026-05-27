@@ -10,115 +10,115 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 
 msgid "All png are removed from folder!"
-msgstr ""
+msgstr "Ҳама png аз ҷузвдон хориҷ карда шудаанд!"
 
 msgid "Close"
-msgstr ""
+msgstr "Пӯшед"
 
 msgid "Current skin can not styled!"
-msgstr ""
+msgstr "Пӯсти ҳозираро ороиш дода наметавонад!"
 
 msgid "Default"
-msgstr ""
+msgstr "Пешфарз"
 
 msgid "Del Line"
 msgstr ""
 
 msgid "Exit"
-msgstr ""
+msgstr "Баромадгоҳ"
 
 msgid "File Commander - Addon"
-msgstr ""
+msgstr "Фармондеҳи файл - Addon"
 
 msgid "Import Api Key OMDB from /tmp/omdbapikey.txt?"
-msgstr ""
+msgstr "Api Key OMDB аз /tmp/omdbapikey.txt ворид кунед?"
 
 msgid "Import Api Key TMDB from /tmp/tmdbapikey.txt?"
-msgstr ""
+msgstr "Api Key TMDB-ро аз /tmp/tmdbapikey.txt ворид кунед?"
 
 msgid "Info..."
-msgstr ""
+msgstr "Маълумот..."
 
 msgid "Ins Line"
 msgstr ""
 
 msgid "Missing %s !"
-msgstr ""
+msgstr "%s нест!"
 
 msgid "No previous styled skin - restore canceled!"
-msgstr ""
+msgstr "Ҳеҷ гуна пӯсти қаблан тарҳрезишуда нест - барқарорсозӣ бекор карда шуд!"
 
 msgid "OMDB API:"
-msgstr ""
+msgstr "API OMDB:"
 
 msgid "OMDB ApiKey Imported & Stored!"
-msgstr ""
+msgstr "OMDB ApiKey воридот ва нигоҳ дошта мешавад!"
 
 msgid "PRESET"
-msgstr ""
+msgstr "ПАХШИН"
 
 msgid "Preserve preview if not defined:"
-msgstr ""
+msgstr "Пешнамоишро нигоҳ доред, агар муайян нашуда бошад:"
 
 msgid "Read Apikey OMDB from file /tmp/omdbapikey.txt"
-msgstr ""
+msgstr "Apikey OMDB-ро аз файли /tmp/omdbapikey.txt хонед"
 
 msgid "Read Apikey TMDB from file /tmp/tmdbapikey.txt"
-msgstr ""
+msgstr "Apikey TMDB-ро аз файли /tmp/tmdbapikey.txt хонед"
 
 msgid "Read style configuration from skin:"
-msgstr ""
+msgstr "Конфигуратсияи услубро аз пӯст хонед:"
 
 msgid "Remove all png Poster:"
-msgstr ""
+msgstr "Ҳама плакатҳои png хориҷ кунед:"
 
 msgid "Reset skin"
-msgstr ""
+msgstr "Пӯстро барқарор кунед"
 
 msgid "Reset skin?"
-msgstr ""
+msgstr "Пӯстро барқарор кунед?"
 
 msgid "Restart GUI now?"
-msgstr ""
+msgstr "Ҳоло GUI-ро аз нав оғоз кунед?"
 
 msgid "Save"
-msgstr ""
+msgstr "Захира кунед"
 
 msgid "Set Your Apikey OMDB"
-msgstr ""
+msgstr "Apikey OMDB-и худро танзим кунед"
 
 msgid "Set Your Apikey TMDB"
-msgstr ""
+msgstr "Apikey TMDB-и худро насб кунед"
 
 msgid "Setup"
-msgstr ""
+msgstr "Ташкил кардан"
 
 msgid "Skin exist!! Do you really want to Upgrade?"
-msgstr ""
+msgstr "Пӯст вуҷуд дорад !! Оё шумо дар ҳақиқат мехоҳед навсозӣ кунед?"
 
 msgid "Skin update:"
-msgstr ""
+msgstr "Навсозии пӯст:"
 
 msgid "Style presets contains errors!"
-msgstr ""
+msgstr "Танзимоти пешакии услуб хатогиҳо доранд!"
 
 msgid "Style your zSkin"
-msgstr ""
+msgstr "zSkin-и худро ороиш диҳед"
 
 msgid "TMDB API:"
-msgstr ""
+msgstr "API TMDB:"
 
 msgid "TMDB ApiKey Imported & Stored!"
-msgstr ""
+msgstr "TMDB ApiKey воридот ва нигоҳ дошта мешавад!"
 
 msgid "The skin is not styled - restore canceled!"
-msgstr ""
+msgstr "Пӯст ороиш дода нашудааст - барқарорсозӣ бекор карда шуд!"
 
 msgid "The skin not exists - restore canceled!"
-msgstr ""
+msgstr "Пӯст вуҷуд надорад - барқарорсозӣ бекор карда шуд!"
 
 msgid "Would you really reset this skin?"
-msgstr ""
+msgstr "Оё шумо дар ҳақиқат ин пӯстро аз нав танзим мекунед?"
 
 msgid "play/show Files"
-msgstr ""
+msgstr "Файлҳоро бозӣ/намоиш диҳед"

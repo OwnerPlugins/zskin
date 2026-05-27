@@ -18,118 +18,118 @@ msgstr ""
 "X-Poedit-SearchPath-0: ../../..\n"
 
 msgid "All png are removed from folder!"
-msgstr ""
+msgstr "Tutti i PNG vengono rimossi dalla cartella!"
 
 msgid "Close"
-msgstr ""
+msgstr "Vicino"
 
 msgid "Current skin can not styled!"
-msgstr ""
+msgstr "La pelle attuale non può essere modellata!"
 
 msgid "Default"
-msgstr ""
+msgstr "Predefinito"
 
 msgid "Del Line"
-msgstr ""
+msgstr "Della Linea"
 
 msgid "Exit"
-msgstr ""
+msgstr "Uscita"
 
 msgid "File Commander - Addon"
-msgstr ""
+msgstr "File Commander - Componente aggiuntivo"
 
 msgid "Import Api Key OMDB from /tmp/omdbapikey.txt?"
-msgstr ""
+msgstr "Importare la chiave Api OMDB da /tmp/omdbapikey.txt?"
 
 msgid "Import Api Key TMDB from /tmp/tmdbapikey.txt?"
-msgstr ""
+msgstr "Importare la chiave API TMDB da /tmp/tmdbapikey.txt?"
 
 msgid "Info..."
-msgstr ""
+msgstr "Informazioni..."
 
 msgid "Ins Line"
-msgstr ""
+msgstr "Linea Ins"
 
 msgid "Missing %s !"
-msgstr ""
+msgstr "%s mancanti!"
 
 msgid "No previous styled skin - restore canceled!"
-msgstr ""
+msgstr "Nessuna skin con stile precedente: ripristino annullato!"
 
 msgid "OMDB API:"
-msgstr ""
+msgstr "API OMDB:"
 
 msgid "OMDB ApiKey Imported & Stored!"
-msgstr ""
+msgstr "OMDB ApiKey importato e archiviato!"
 
 msgid "PRESET"
 msgstr ""
 
 msgid "Preserve preview if not defined:"
-msgstr ""
+msgstr "Conserva l'anteprima se non definita:"
 
 msgid "Read Apikey OMDB from file /tmp/omdbapikey.txt"
-msgstr ""
+msgstr "Leggi Apikey OMDB dal file /tmp/omdbapikey.txt"
 
 msgid "Read Apikey TMDB from file /tmp/tmdbapikey.txt"
-msgstr ""
+msgstr "Leggi Apikey TMDB dal file /tmp/tmdbapikey.txt"
 
 msgid "Read style configuration from skin:"
-msgstr ""
+msgstr "Leggi la configurazione dello stile dalla skin:"
 
 msgid "Remove all png Poster:"
-msgstr ""
+msgstr "Rimuovi tutto il poster png:"
 
 msgid "Reset skin"
-msgstr ""
+msgstr "Reimposta la pelle"
 
 msgid "Reset skin?"
-msgstr ""
+msgstr "Reimpostare la pelle?"
 
 msgid "Restart GUI now?"
-msgstr ""
+msgstr "Riavviare la GUI adesso?"
 
 msgid "Save"
-msgstr ""
+msgstr "Salva"
 
 msgid "Set Your Apikey OMDB"
-msgstr ""
+msgstr "Imposta il tuo OMDB Apikey"
 
 msgid "Set Your Apikey TMDB"
-msgstr ""
+msgstr "Imposta il tuo TMDB Apikey"
 
 msgid "Setup"
-msgstr ""
+msgstr "Impostare"
 
 msgid "Skin exist!! Do you really want to Upgrade?"
-msgstr ""
+msgstr "La pelle esiste!! Vuoi davvero eseguire l'aggiornamento?"
 
 msgid "Skin update:"
-msgstr ""
+msgstr "Aggiornamento della pelle:"
 
 msgid "Style presets contains errors!"
-msgstr ""
+msgstr "I preset di stile contengono errori!"
 
 msgid "Style your zSkin"
-msgstr ""
+msgstr "Dai stile alla tua zSkin"
 
 msgid "TMDB API:"
-msgstr ""
+msgstr "APITMDB:"
 
 msgid "TMDB ApiKey Imported & Stored!"
-msgstr ""
+msgstr "TMDB ApiKey importato e archiviato!"
 
 msgid "The skin is not styled - restore canceled!"
-msgstr ""
+msgstr "La skin non ha stile: ripristino annullato!"
 
 msgid "The skin not exists - restore canceled!"
-msgstr ""
+msgstr "La skin non esiste: ripristino annullato!"
 
 msgid "Would you really reset this skin?"
-msgstr ""
+msgstr "Resetteresti davvero questa skin?"
 
 msgid "play/show Files"
-msgstr ""
+msgstr "riprodurre/mostrare file"
 
 #~ msgid "Style your skin"
 #~ msgstr "Style your skin"

@@ -10,115 +10,115 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 
 msgid "All png are removed from folder!"
-msgstr ""
+msgstr "Барлык png папкадан алынды!"
 
 msgid "Close"
-msgstr ""
+msgstr "Ябу"
 
 msgid "Current skin can not styled!"
-msgstr ""
+msgstr "Хәзерге тире стилизацияләнә алмый!"
 
 msgid "Default"
-msgstr ""
+msgstr "Килешү"
 
 msgid "Del Line"
 msgstr ""
 
 msgid "Exit"
-msgstr ""
+msgstr "Чык"
 
 msgid "File Commander - Addon"
-msgstr ""
+msgstr "Файл командиры - Аддон"
 
 msgid "Import Api Key OMDB from /tmp/omdbapikey.txt?"
-msgstr ""
+msgstr "Api Key OMDB-ны /tmp/omdbapikey.txt-тан импортлагыз?"
 
 msgid "Import Api Key TMDB from /tmp/tmdbapikey.txt?"
-msgstr ""
+msgstr "Api Key TMDB-ны /tmp/tmdbapikey.txt-тан импортлагыз?"
 
 msgid "Info..."
-msgstr ""
+msgstr "Мәгълүмат ..."
 
 msgid "Ins Line"
 msgstr ""
 
 msgid "Missing %s !"
-msgstr ""
+msgstr "Сагыну% s!"
 
 msgid "No previous styled skin - restore canceled!"
-msgstr ""
+msgstr "Элеккеге тире юк - торгызу юкка чыгарылды!"
 
 msgid "OMDB API:"
 msgstr ""
 
 msgid "OMDB ApiKey Imported & Stored!"
-msgstr ""
+msgstr "OMDB ApiKey импортланган һәм сакланган!"
 
 msgid "PRESET"
 msgstr ""
 
 msgid "Preserve preview if not defined:"
-msgstr ""
+msgstr "Әгәр дә билгеләнмәгән булса, алдан карау."
 
 msgid "Read Apikey OMDB from file /tmp/omdbapikey.txt"
-msgstr ""
+msgstr "Apikey OMDB /tmp/omdbapikey.txt файлыннан укыгыз"
 
 msgid "Read Apikey TMDB from file /tmp/tmdbapikey.txt"
-msgstr ""
+msgstr "Apikey TMDB /tmp/tmdbapikey.txt файлыннан укыгыз"
 
 msgid "Read style configuration from skin:"
-msgstr ""
+msgstr "Тәннән стиль конфигурациясен укыгыз:"
 
 msgid "Remove all png Poster:"
-msgstr ""
+msgstr "Барлык png плакатны бетерегез:"
 
 msgid "Reset skin"
-msgstr ""
+msgstr "Терене торгызу"
 
 msgid "Reset skin?"
-msgstr ""
+msgstr "Терене торгызырга?"
 
 msgid "Restart GUI now?"
-msgstr ""
+msgstr "GUIны яңадан эшләтеп җибәрегез?"
 
 msgid "Save"
-msgstr ""
+msgstr "Саклагыз"
 
 msgid "Set Your Apikey OMDB"
-msgstr ""
+msgstr "Сезнең Apikey OMDB көйләгез"
 
 msgid "Set Your Apikey TMDB"
-msgstr ""
+msgstr "Сезнең Apikey TMDB көйләгез"
 
 msgid "Setup"
-msgstr ""
+msgstr "Урнаштыру"
 
 msgid "Skin exist!! Do you really want to Upgrade?"
-msgstr ""
+msgstr "Тере бар !! Сез чыннан да яңартырга телисезме?"
 
 msgid "Skin update:"
-msgstr ""
+msgstr "Терене яңарту:"
 
 msgid "Style presets contains errors!"
-msgstr ""
+msgstr "Стиль алдан ук хаталар бар!"
 
 msgid "Style your zSkin"
-msgstr ""
+msgstr "ZSkin стиле"
 
 msgid "TMDB API:"
 msgstr ""
 
 msgid "TMDB ApiKey Imported & Stored!"
-msgstr ""
+msgstr "TMDB ApiKey импортланган һәм сакланган!"
 
 msgid "The skin is not styled - restore canceled!"
-msgstr ""
+msgstr "Тере бизәлгән түгел - торгызу юкка чыгарылды!"
 
 msgid "The skin not exists - restore canceled!"
-msgstr ""
+msgstr "Тере юк - торгызу юкка чыгарылды!"
 
 msgid "Would you really reset this skin?"
-msgstr ""
+msgstr "Сез бу тирене чыннан да үзгәртә аласызмы?"
 
 msgid "play/show Files"
-msgstr ""
+msgstr "Файлларны уйнау / күрсәтү"

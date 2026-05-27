@@ -11,31 +11,31 @@ msgstr ""
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
 
 msgid "All png are removed from folder!"
-msgstr ""
+msgstr "Kõik png-failid eemaldatakse kaustast!"
 
 msgid "Close"
-msgstr ""
+msgstr "Sule"
 
 msgid "Current skin can not styled!"
-msgstr ""
+msgstr "Praegust nahka ei saa kujundada!"
 
 msgid "Default"
-msgstr ""
+msgstr "Vaikimisi"
 
 msgid "Del Line"
 msgstr ""
 
 msgid "Exit"
-msgstr ""
+msgstr "Välju"
 
 msgid "File Commander - Addon"
-msgstr ""
+msgstr "Failiülem – lisand"
 
 msgid "Import Api Key OMDB from /tmp/omdbapikey.txt?"
-msgstr ""
+msgstr "Kas importida Api võtme OMDB failist /tmp/omdbapikey.txt?"
 
 msgid "Import Api Key TMDB from /tmp/tmdbapikey.txt?"
-msgstr ""
+msgstr "Kas importida Api Key TMDB failist /tmp/tmdbapikey.txt?"
 
 msgid "Info..."
 msgstr ""
@@ -44,82 +44,82 @@ msgid "Ins Line"
 msgstr ""
 
 msgid "Missing %s !"
-msgstr ""
+msgstr "%s puudub!"
 
 msgid "No previous styled skin - restore canceled!"
-msgstr ""
+msgstr "Varasemalt stiilitud nahka pole – taastamine tühistatud!"
 
 msgid "OMDB API:"
 msgstr ""
 
 msgid "OMDB ApiKey Imported & Stored!"
-msgstr ""
+msgstr "OMDB ApiKey imporditud ja salvestatud!"
 
 msgid "PRESET"
-msgstr ""
+msgstr "PRESSET"
 
 msgid "Preserve preview if not defined:"
-msgstr ""
+msgstr "Säilitage eelvaade, kui see pole määratletud:"
 
 msgid "Read Apikey OMDB from file /tmp/omdbapikey.txt"
-msgstr ""
+msgstr "Lugege Apikey OMDB failist /tmp/omdbapikey.txt"
 
 msgid "Read Apikey TMDB from file /tmp/tmdbapikey.txt"
-msgstr ""
+msgstr "Lugege Apikey TMDB failist /tmp/tmdbapikey.txt"
 
 msgid "Read style configuration from skin:"
-msgstr ""
+msgstr "Lugege stiili konfiguratsiooni nahast:"
 
 msgid "Remove all png Poster:"
-msgstr ""
+msgstr "Eemalda kõik png-plakatid:"
 
 msgid "Reset skin"
-msgstr ""
+msgstr "Lähtestage nahk"
 
 msgid "Reset skin?"
-msgstr ""
+msgstr "Kas lähtestada nahk?"
 
 msgid "Restart GUI now?"
-msgstr ""
+msgstr "Kas taaskäivitada GUI kohe?"
 
 msgid "Save"
-msgstr ""
+msgstr "Salvesta"
 
 msgid "Set Your Apikey OMDB"
-msgstr ""
+msgstr "Määrake oma Apikey OMDB"
 
 msgid "Set Your Apikey TMDB"
-msgstr ""
+msgstr "Määrake oma Apikey TMDB"
 
 msgid "Setup"
-msgstr ""
+msgstr "Seadistamine"
 
 msgid "Skin exist!! Do you really want to Upgrade?"
-msgstr ""
+msgstr "Nahk on olemas!! Kas soovite tõesti uuendada?"
 
 msgid "Skin update:"
-msgstr ""
+msgstr "Naha värskendus:"
 
 msgid "Style presets contains errors!"
-msgstr ""
+msgstr "Stiili eelseaded sisaldavad vigu!"
 
 msgid "Style your zSkin"
-msgstr ""
+msgstr "Stiilige oma zSkin"
 
 msgid "TMDB API:"
 msgstr ""
 
 msgid "TMDB ApiKey Imported & Stored!"
-msgstr ""
+msgstr "TMDB ApiKey imporditud ja salvestatud!"
 
 msgid "The skin is not styled - restore canceled!"
-msgstr ""
+msgstr "Nahk ei ole stiilitud – taastamine tühistatud!"
 
 msgid "The skin not exists - restore canceled!"
-msgstr ""
+msgstr "Nahka pole olemas – taastamine tühistatud!"
 
 msgid "Would you really reset this skin?"
-msgstr ""
+msgstr "Kas te tõesti lähtestaksite selle naha?"
 
 msgid "play/show Files"
-msgstr ""
+msgstr "esita/näita faile"

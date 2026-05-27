@@ -11,31 +11,31 @@ msgstr ""
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
 
 msgid "All png are removed from folder!"
-msgstr ""
+msgstr "Minden png eltávolítva a mappából!"
 
 msgid "Close"
-msgstr ""
+msgstr "Közeli"
 
 msgid "Current skin can not styled!"
-msgstr ""
+msgstr "A jelenlegi bőr nem formázható!"
 
 msgid "Default"
-msgstr ""
+msgstr "Alapértelmezett"
 
 msgid "Del Line"
 msgstr ""
 
 msgid "Exit"
-msgstr ""
+msgstr "Kijárat"
 
 msgid "File Commander - Addon"
 msgstr ""
 
 msgid "Import Api Key OMDB from /tmp/omdbapikey.txt?"
-msgstr ""
+msgstr "Importálja az Api Key OMDB-t a /tmp/omdbapikey.txt fájlból?"
 
 msgid "Import Api Key TMDB from /tmp/tmdbapikey.txt?"
-msgstr ""
+msgstr "Importálja az Api Key TMDB-t a /tmp/tmdbapikey.txt fájlból?"
 
 msgid "Info..."
 msgstr ""
@@ -44,34 +44,34 @@ msgid "Ins Line"
 msgstr ""
 
 msgid "Missing %s !"
-msgstr ""
+msgstr "%s hiányzik!"
 
 msgid "No previous styled skin - restore canceled!"
-msgstr ""
+msgstr "Nincs korábban formázott bőr – visszaállítás törölve!"
 
 msgid "OMDB API:"
 msgstr ""
 
 msgid "OMDB ApiKey Imported & Stored!"
-msgstr ""
+msgstr "OMDB ApiKey importálva és tárolva!"
 
 msgid "PRESET"
 msgstr ""
 
 msgid "Preserve preview if not defined:"
-msgstr ""
+msgstr "Előnézet megőrzése, ha nincs megadva:"
 
 msgid "Read Apikey OMDB from file /tmp/omdbapikey.txt"
-msgstr ""
+msgstr "Olvassa el az Apikey OMDB-t a /tmp/omdbapikey.txt fájlból"
 
 msgid "Read Apikey TMDB from file /tmp/tmdbapikey.txt"
-msgstr ""
+msgstr "Olvassa el az Apikey TMDB-t a /tmp/tmdbapikey.txt fájlból"
 
 msgid "Read style configuration from skin:"
-msgstr ""
+msgstr "Stíluskonfiguráció olvasása bőrről:"
 
 msgid "Remove all png Poster:"
-msgstr ""
+msgstr "Az összes png plakát eltávolítása:"
 
 msgid "Reset skin"
 msgstr ""
@@ -80,46 +80,46 @@ msgid "Reset skin?"
 msgstr ""
 
 msgid "Restart GUI now?"
-msgstr ""
+msgstr "Újraindítja a GUI-t most?"
 
 msgid "Save"
-msgstr ""
+msgstr "Megtakarítás"
 
 msgid "Set Your Apikey OMDB"
-msgstr ""
+msgstr "Állítsa be az Apikey OMDB-t"
 
 msgid "Set Your Apikey TMDB"
-msgstr ""
+msgstr "Állítsa be az Apikey TMDB-jét"
 
 msgid "Setup"
-msgstr ""
+msgstr "Beállítás"
 
 msgid "Skin exist!! Do you really want to Upgrade?"
-msgstr ""
+msgstr "A bőr létezik!! Valóban frissíteni akar?"
 
 msgid "Skin update:"
-msgstr ""
+msgstr "Bőrfrissítés:"
 
 msgid "Style presets contains errors!"
-msgstr ""
+msgstr "A stílusbeállítások hibákat tartalmaznak!"
 
 msgid "Style your zSkin"
-msgstr ""
+msgstr "Formáld a zSkinedet"
 
 msgid "TMDB API:"
 msgstr ""
 
 msgid "TMDB ApiKey Imported & Stored!"
-msgstr ""
+msgstr "TMDB ApiKey importálva és tárolva!"
 
 msgid "The skin is not styled - restore canceled!"
-msgstr ""
+msgstr "A bőr nincs stílusban - helyreállítás törölve!"
 
 msgid "The skin not exists - restore canceled!"
-msgstr ""
+msgstr "A bőr nem létezik - visszaállítás törölve!"
 
 msgid "Would you really reset this skin?"
-msgstr ""
+msgstr "Tényleg visszaállítaná ezt a bőrt?"
 
 msgid "play/show Files"
-msgstr ""
+msgstr "Fájlok lejátszása/megjelenítése"

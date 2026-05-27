@@ -11,115 +11,115 @@ msgstr ""
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
 
 msgid "All png are removed from folder!"
-msgstr ""
+msgstr "Tüm png klasörden kaldırıldı!"
 
 msgid "Close"
-msgstr ""
+msgstr "Kapalı"
 
 msgid "Current skin can not styled!"
-msgstr ""
+msgstr "Mevcut cilt şekillendirilemez!"
 
 msgid "Default"
-msgstr ""
+msgstr "Varsayılan"
 
 msgid "Del Line"
-msgstr ""
+msgstr "Del Hattı"
 
 msgid "Exit"
-msgstr ""
+msgstr "Çıkış"
 
 msgid "File Commander - Addon"
-msgstr ""
+msgstr "Dosya Komutanı - Eklenti"
 
 msgid "Import Api Key OMDB from /tmp/omdbapikey.txt?"
-msgstr ""
+msgstr "Api Anahtarı OMDB /tmp/omdbapikey.txt dosyasından içe aktarılsın mı?"
 
 msgid "Import Api Key TMDB from /tmp/tmdbapikey.txt?"
-msgstr ""
+msgstr "Api Anahtarı TMDB /tmp/tmdbapikey.txt dosyasından içe aktarılsın mı?"
 
 msgid "Info..."
-msgstr ""
+msgstr "Bilgi..."
 
 msgid "Ins Line"
-msgstr ""
+msgstr "Ins Hattı"
 
 msgid "Missing %s !"
-msgstr ""
+msgstr "%s eksik!"
 
 msgid "No previous styled skin - restore canceled!"
-msgstr ""
+msgstr "Daha önce tasarlanmış görünüm yok - geri yükleme iptal edildi!"
 
 msgid "OMDB API:"
-msgstr ""
+msgstr "OMDB API'si:"
 
 msgid "OMDB ApiKey Imported & Stored!"
-msgstr ""
+msgstr "OMDB ApiKey İçe Aktarıldı ve Saklandı!"
 
 msgid "PRESET"
-msgstr ""
+msgstr "ÖN AYAR"
 
 msgid "Preserve preview if not defined:"
-msgstr ""
+msgstr "Tanımlanmamışsa önizlemeyi koru:"
 
 msgid "Read Apikey OMDB from file /tmp/omdbapikey.txt"
-msgstr ""
+msgstr "Apikey OMDB'yi /tmp/omdbapikey.txt dosyasından okuyun"
 
 msgid "Read Apikey TMDB from file /tmp/tmdbapikey.txt"
-msgstr ""
+msgstr "Apikey TMDB'yi /tmp/tmdbapikey.txt dosyasından okuyun"
 
 msgid "Read style configuration from skin:"
-msgstr ""
+msgstr "Dış görünümden stil yapılandırmasını okuyun:"
 
 msgid "Remove all png Poster:"
-msgstr ""
+msgstr "Tüm png'leri kaldır Poster:"
 
 msgid "Reset skin"
-msgstr ""
+msgstr "Cildi sıfırla"
 
 msgid "Reset skin?"
-msgstr ""
+msgstr "Görünüm sıfırlansın mı?"
 
 msgid "Restart GUI now?"
-msgstr ""
+msgstr "GUI şimdi yeniden başlatılsın mı?"
 
 msgid "Save"
-msgstr ""
+msgstr "Kaydetmek"
 
 msgid "Set Your Apikey OMDB"
-msgstr ""
+msgstr "Apikey OMDB'nizi Ayarlayın"
 
 msgid "Set Your Apikey TMDB"
-msgstr ""
+msgstr "Apikey TMDB'nizi Ayarlayın"
 
 msgid "Setup"
-msgstr ""
+msgstr "Kurmak"
 
 msgid "Skin exist!! Do you really want to Upgrade?"
-msgstr ""
+msgstr "Cilt var!! Gerçekten Yükseltmek istiyor musunuz?"
 
 msgid "Skin update:"
-msgstr ""
+msgstr "Cilt güncellemesi:"
 
 msgid "Style presets contains errors!"
-msgstr ""
+msgstr "Stil ön ayarları hatalar içeriyor!"
 
 msgid "Style your zSkin"
-msgstr ""
+msgstr "zSkin'inize stil verin"
 
 msgid "TMDB API:"
-msgstr ""
+msgstr "TMDB API'si:"
 
 msgid "TMDB ApiKey Imported & Stored!"
-msgstr ""
+msgstr "TMDB ApiKey İçe Aktarıldı ve Saklandı!"
 
 msgid "The skin is not styled - restore canceled!"
-msgstr ""
+msgstr "Görünüm şekillendirilmedi - geri yükleme iptal edildi!"
 
 msgid "The skin not exists - restore canceled!"
-msgstr ""
+msgstr "Dış görünüm mevcut değil - geri yükleme iptal edildi!"
 
 msgid "Would you really reset this skin?"
-msgstr ""
+msgstr "Bu cildi gerçekten sıfırlar mıydınız?"
 
 msgid "play/show Files"
-msgstr ""
+msgstr "Dosyaları oynat/göster"

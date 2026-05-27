@@ -11,115 +11,115 @@ msgstr ""
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
 
 msgid "All png are removed from folder!"
-msgstr ""
+msgstr "Όλα τα png αφαιρούνται από το φάκελο!"
 
 msgid "Close"
-msgstr ""
+msgstr "Κοντά"
 
 msgid "Current skin can not styled!"
-msgstr ""
+msgstr "Το τρέχον δέρμα δεν μπορεί να διαμορφωθεί!"
 
 msgid "Default"
-msgstr ""
+msgstr "Αθέτηση"
 
 msgid "Del Line"
 msgstr ""
 
 msgid "Exit"
-msgstr ""
+msgstr "Εξοδος"
 
 msgid "File Commander - Addon"
 msgstr ""
 
 msgid "Import Api Key OMDB from /tmp/omdbapikey.txt?"
-msgstr ""
+msgstr "Εισαγωγή κλειδιού Api OMDB από το /tmp/omdbapikey.txt;"
 
 msgid "Import Api Key TMDB from /tmp/tmdbapikey.txt?"
-msgstr ""
+msgstr "Εισαγωγή κλειδιού Api TMDB από το /tmp/tmdbapikey.txt;"
 
 msgid "Info..."
-msgstr ""
+msgstr "Πληροφορίες..."
 
 msgid "Ins Line"
 msgstr ""
 
 msgid "Missing %s !"
-msgstr ""
+msgstr "Λείπει %s !"
 
 msgid "No previous styled skin - restore canceled!"
-msgstr ""
+msgstr "Χωρίς προηγούμενο στυλ δέρματος - η επαναφορά ακυρώθηκε!"
 
 msgid "OMDB API:"
 msgstr ""
 
 msgid "OMDB ApiKey Imported & Stored!"
-msgstr ""
+msgstr "Το OMDB ApiKey εισήχθη και αποθηκεύτηκε!"
 
 msgid "PRESET"
-msgstr ""
+msgstr "ΠΡΟΡΥΘΜΙΣΗ"
 
 msgid "Preserve preview if not defined:"
-msgstr ""
+msgstr "Διατήρηση προεπισκόπησης εάν δεν έχει οριστεί:"
 
 msgid "Read Apikey OMDB from file /tmp/omdbapikey.txt"
-msgstr ""
+msgstr "Διαβάστε το Apikey OMDB από το αρχείο /tmp/omdbapikey.txt"
 
 msgid "Read Apikey TMDB from file /tmp/tmdbapikey.txt"
-msgstr ""
+msgstr "Διαβάστε το Apikey TMDB από το αρχείο /tmp/tmdbapikey.txt"
 
 msgid "Read style configuration from skin:"
-msgstr ""
+msgstr "Διαβάστε τη διαμόρφωση στυλ από το δέρμα:"
 
 msgid "Remove all png Poster:"
-msgstr ""
+msgstr "Κατάργηση όλης της αφίσας png:"
 
 msgid "Reset skin"
-msgstr ""
+msgstr "Επαναφέρετε το δέρμα"
 
 msgid "Reset skin?"
-msgstr ""
+msgstr "Επαναφορά του δέρματος;"
 
 msgid "Restart GUI now?"
-msgstr ""
+msgstr "Επανεκκίνηση του GUI τώρα;"
 
 msgid "Save"
-msgstr ""
+msgstr "Εκτός"
 
 msgid "Set Your Apikey OMDB"
-msgstr ""
+msgstr "Ρυθμίστε το Apikey OMDB σας"
 
 msgid "Set Your Apikey TMDB"
-msgstr ""
+msgstr "Ρυθμίστε το Apikey TMDB σας"
 
 msgid "Setup"
-msgstr ""
+msgstr "Ρύθμιση"
 
 msgid "Skin exist!! Do you really want to Upgrade?"
-msgstr ""
+msgstr "Το δέρμα υπάρχει!! Θέλετε πραγματικά να κάνετε αναβάθμιση;"
 
 msgid "Skin update:"
-msgstr ""
+msgstr "Ενημέρωση δέρματος:"
 
 msgid "Style presets contains errors!"
-msgstr ""
+msgstr "Οι προεπιλογές στυλ περιέχουν σφάλματα!"
 
 msgid "Style your zSkin"
-msgstr ""
+msgstr "Δώστε στυλ στο zSkin σας"
 
 msgid "TMDB API:"
 msgstr ""
 
 msgid "TMDB ApiKey Imported & Stored!"
-msgstr ""
+msgstr "Το TMDB ApiKey εισήχθη και αποθηκεύτηκε!"
 
 msgid "The skin is not styled - restore canceled!"
-msgstr ""
+msgstr "Το δέρμα δεν έχει στυλ - η επαναφορά ακυρώθηκε!"
 
 msgid "The skin not exists - restore canceled!"
-msgstr ""
+msgstr "Το δέρμα δεν υπάρχει - η επαναφορά ακυρώθηκε!"
 
 msgid "Would you really reset this skin?"
-msgstr ""
+msgstr "Θα επαναφέρατε πραγματικά αυτό το δέρμα;"
 
 msgid "play/show Files"
-msgstr ""
+msgstr "αναπαραγωγή/εμφάνιση Αρχείων"

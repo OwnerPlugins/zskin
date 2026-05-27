@@ -10,115 +10,115 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 
 msgid "All png are removed from folder!"
-msgstr ""
+msgstr "అన్ని png ఫోల్డర్ నుండి తీసివేయబడ్డాయి!"
 
 msgid "Close"
-msgstr ""
+msgstr "మూసివేయి"
 
 msgid "Current skin can not styled!"
-msgstr ""
+msgstr "ప్రస్తుత చర్మం స్టైల్ కాదు!"
 
 msgid "Default"
-msgstr ""
+msgstr "డిఫాల్ట్"
 
 msgid "Del Line"
-msgstr ""
+msgstr "డెల్ లైన్"
 
 msgid "Exit"
-msgstr ""
+msgstr "నిష్క్రమించు"
 
 msgid "File Commander - Addon"
-msgstr ""
+msgstr "ఫైల్ కమాండర్ - యాడ్ఆన్"
 
 msgid "Import Api Key OMDB from /tmp/omdbapikey.txt?"
-msgstr ""
+msgstr "/tmp/omdbapikey.txt నుండి Api కీ OMDBని దిగుమతి చేయాలా?"
 
 msgid "Import Api Key TMDB from /tmp/tmdbapikey.txt?"
-msgstr ""
+msgstr "Api కీ TMDBని /tmp/tmdbapikey.txt నుండి దిగుమతి చేయాలా?"
 
 msgid "Info..."
-msgstr ""
+msgstr "సమాచారం..."
 
 msgid "Ins Line"
-msgstr ""
+msgstr "ఇన్స్ లైన్"
 
 msgid "Missing %s !"
-msgstr ""
+msgstr "%s లేదు !"
 
 msgid "No previous styled skin - restore canceled!"
-msgstr ""
+msgstr "మునుపటి స్టైల్ స్కిన్ లేదు - రీస్టోర్ రద్దు చేయబడింది!"
 
 msgid "OMDB API:"
 msgstr ""
 
 msgid "OMDB ApiKey Imported & Stored!"
-msgstr ""
+msgstr "OMDB ApiKey దిగుమతి చేయబడింది & నిల్వ చేయబడింది!"
 
 msgid "PRESET"
-msgstr ""
+msgstr "ప్రీసెట్"
 
 msgid "Preserve preview if not defined:"
-msgstr ""
+msgstr "నిర్వచించకపోతే ప్రివ్యూని భద్రపరచండి:"
 
 msgid "Read Apikey OMDB from file /tmp/omdbapikey.txt"
-msgstr ""
+msgstr "ఫైల్ /tmp/omdbapikey.txt నుండి Apikey OMDBని చదవండి"
 
 msgid "Read Apikey TMDB from file /tmp/tmdbapikey.txt"
-msgstr ""
+msgstr "ఫైల్ /tmp/tmdbapikey.txt నుండి Apikey TMDBని చదవండి"
 
 msgid "Read style configuration from skin:"
-msgstr ""
+msgstr "స్కిన్ నుండి స్టైల్ కాన్ఫిగరేషన్‌ని చదవండి:"
 
 msgid "Remove all png Poster:"
-msgstr ""
+msgstr "అన్ని png పోస్టర్‌లను తీసివేయండి:"
 
 msgid "Reset skin"
-msgstr ""
+msgstr "చర్మాన్ని రీసెట్ చేయండి"
 
 msgid "Reset skin?"
-msgstr ""
+msgstr "చర్మాన్ని రీసెట్ చేయాలా?"
 
 msgid "Restart GUI now?"
-msgstr ""
+msgstr "ఇప్పుడు GUIని పునఃప్రారంభించాలా?"
 
 msgid "Save"
-msgstr ""
+msgstr "సేవ్ చేయండి"
 
 msgid "Set Your Apikey OMDB"
-msgstr ""
+msgstr "మీ Apikey OMDBని సెట్ చేయండి"
 
 msgid "Set Your Apikey TMDB"
-msgstr ""
+msgstr "మీ Apikey TMDBని సెట్ చేయండి"
 
 msgid "Setup"
-msgstr ""
+msgstr "సెటప్"
 
 msgid "Skin exist!! Do you really want to Upgrade?"
-msgstr ""
+msgstr "చర్మం ఉనికిలో ఉంది !! మీరు నిజంగా అప్‌గ్రేడ్ చేయాలనుకుంటున్నారా?"
 
 msgid "Skin update:"
-msgstr ""
+msgstr "స్కిన్ అప్‌డేట్:"
 
 msgid "Style presets contains errors!"
-msgstr ""
+msgstr "స్టైల్ ప్రీసెట్‌లు లోపాలను కలిగి ఉన్నాయి!"
 
 msgid "Style your zSkin"
-msgstr ""
+msgstr "మీ zSkin స్టైల్ చేయండి"
 
 msgid "TMDB API:"
 msgstr ""
 
 msgid "TMDB ApiKey Imported & Stored!"
-msgstr ""
+msgstr "TMDB ApiKey దిగుమతి చేయబడింది & నిల్వ చేయబడింది!"
 
 msgid "The skin is not styled - restore canceled!"
-msgstr ""
+msgstr "చర్మం స్టైల్ చేయబడలేదు - పునరుద్ధరించబడింది రద్దు చేయబడింది!"
 
 msgid "The skin not exists - restore canceled!"
-msgstr ""
+msgstr "చర్మం ఉనికిలో లేదు - పునరుద్ధరించడం రద్దు చేయబడింది!"
 
 msgid "Would you really reset this skin?"
-msgstr ""
+msgstr "మీరు నిజంగా ఈ చర్మాన్ని రీసెట్ చేస్తారా?"
 
 msgid "play/show Files"
-msgstr ""
+msgstr "ఫైల్‌లను ప్లే/షో"

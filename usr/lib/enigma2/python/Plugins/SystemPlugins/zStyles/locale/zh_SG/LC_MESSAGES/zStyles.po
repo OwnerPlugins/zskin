@@ -10,115 +10,115 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 
 msgid "All png are removed from folder!"
-msgstr ""
+msgstr "所有 png 均已从文件夹中删除！"
 
 msgid "Close"
-msgstr ""
+msgstr "关闭"
 
 msgid "Current skin can not styled!"
-msgstr ""
+msgstr "当前皮肤无法设计！"
 
 msgid "Default"
-msgstr ""
+msgstr "默认"
 
 msgid "Del Line"
-msgstr ""
+msgstr "德尔线"
 
 msgid "Exit"
-msgstr ""
+msgstr "出口"
 
 msgid "File Commander - Addon"
-msgstr ""
+msgstr "文件指挥官 - 插件"
 
 msgid "Import Api Key OMDB from /tmp/omdbapikey.txt?"
-msgstr ""
+msgstr "从 /tmp/omdbapikey.txt 导入 Api 密钥 OMDB？"
 
 msgid "Import Api Key TMDB from /tmp/tmdbapikey.txt?"
-msgstr ""
+msgstr "从 /tmp/tmdbapikey.txt 导入 Api 密钥 TMDB？"
 
 msgid "Info..."
-msgstr ""
+msgstr "信息..."
 
 msgid "Ins Line"
-msgstr ""
+msgstr "INS线"
 
 msgid "Missing %s !"
-msgstr ""
+msgstr "缺少%s！"
 
 msgid "No previous styled skin - restore canceled!"
-msgstr ""
+msgstr "没有以前风格的皮肤 - 恢复已取消！"
 
 msgid "OMDB API:"
-msgstr ""
+msgstr "OMDB API："
 
 msgid "OMDB ApiKey Imported & Stored!"
-msgstr ""
+msgstr "OMDB ApiKey 已导入并存储！"
 
 msgid "PRESET"
-msgstr ""
+msgstr "预设"
 
 msgid "Preserve preview if not defined:"
-msgstr ""
+msgstr "如果未定义，则保留预览："
 
 msgid "Read Apikey OMDB from file /tmp/omdbapikey.txt"
-msgstr ""
+msgstr "从文件 /tmp/omdbapikey.txt 读取 Apkey OMDB"
 
 msgid "Read Apikey TMDB from file /tmp/tmdbapikey.txt"
-msgstr ""
+msgstr "从文件 /tmp/tmdbapikey.txt 读取 Apkey TMDB"
 
 msgid "Read style configuration from skin:"
-msgstr ""
+msgstr "从皮肤中读取样式配置："
 
 msgid "Remove all png Poster:"
-msgstr ""
+msgstr "删除所有 png 海报："
 
 msgid "Reset skin"
-msgstr ""
+msgstr "重置皮肤"
 
 msgid "Reset skin?"
-msgstr ""
+msgstr "重置皮肤？"
 
 msgid "Restart GUI now?"
-msgstr ""
+msgstr "现在重新启动图形用户界面吗？"
 
 msgid "Save"
-msgstr ""
+msgstr "节省"
 
 msgid "Set Your Apikey OMDB"
-msgstr ""
+msgstr "设置您的 APIkey OMDB"
 
 msgid "Set Your Apikey TMDB"
-msgstr ""
+msgstr "设置您的 APIkey TMDB"
 
 msgid "Setup"
-msgstr ""
+msgstr "设置"
 
 msgid "Skin exist!! Do you really want to Upgrade?"
-msgstr ""
+msgstr "皮肤存在！！您真的要升级吗？"
 
 msgid "Skin update:"
-msgstr ""
+msgstr "皮肤更新："
 
 msgid "Style presets contains errors!"
-msgstr ""
+msgstr "样式预设包含错误！"
 
 msgid "Style your zSkin"
-msgstr ""
+msgstr "设计您的 zSkin"
 
 msgid "TMDB API:"
-msgstr ""
+msgstr "TMDB API："
 
 msgid "TMDB ApiKey Imported & Stored!"
-msgstr ""
+msgstr "TMDB ApiKey 已导入并存储！"
 
 msgid "The skin is not styled - restore canceled!"
-msgstr ""
+msgstr "皮肤没有样式 - 恢复已取消！"
 
 msgid "The skin not exists - restore canceled!"
-msgstr ""
+msgstr "皮肤不存在 - 恢复已取消！"
 
 msgid "Would you really reset this skin?"
-msgstr ""
+msgstr "你真的会重置这个皮肤吗？"
 
 msgid "play/show Files"
-msgstr ""
+msgstr "播放/显示文件"

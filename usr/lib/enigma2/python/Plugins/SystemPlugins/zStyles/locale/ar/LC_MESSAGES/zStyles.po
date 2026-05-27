@@ -10,115 +10,115 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 
 msgid "All png are removed from folder!"
-msgstr ""
+msgstr "تتم إزالة جميع ملفات png من المجلد!"
 
 msgid "Close"
-msgstr ""
+msgstr "يغلق"
 
 msgid "Current skin can not styled!"
-msgstr ""
+msgstr "الجلد الحالي لا يمكن نصب!"
 
 msgid "Default"
-msgstr ""
+msgstr "تقصير"
 
 msgid "Del Line"
-msgstr ""
+msgstr "ديل لاين"
 
 msgid "Exit"
-msgstr ""
+msgstr "مخرج"
 
 msgid "File Commander - Addon"
-msgstr ""
+msgstr "قائد الملف - الملحق"
 
 msgid "Import Api Key OMDB from /tmp/omdbapikey.txt?"
-msgstr ""
+msgstr "هل تريد استيراد مفتاح Api OMDB من /tmp/omdbapikey.txt؟"
 
 msgid "Import Api Key TMDB from /tmp/tmdbapikey.txt?"
-msgstr ""
+msgstr "هل تريد استيراد مفتاح Api TMDB من /tmp/tmdbapikey.txt؟"
 
 msgid "Info..."
-msgstr ""
+msgstr "معلومات..."
 
 msgid "Ins Line"
-msgstr ""
+msgstr "خط إنس"
 
 msgid "Missing %s !"
-msgstr ""
+msgstr "%s مفقود!"
 
 msgid "No previous styled skin - restore canceled!"
-msgstr ""
+msgstr "لا يوجد مظهر سابق للتصميم - تم إلغاء الاستعادة!"
 
 msgid "OMDB API:"
-msgstr ""
+msgstr "واجهة برمجة تطبيقات OMDB:"
 
 msgid "OMDB ApiKey Imported & Stored!"
-msgstr ""
+msgstr "OMDB ApiKey المستوردة والمخزنة!"
 
 msgid "PRESET"
-msgstr ""
+msgstr "إعداد مسبق"
 
 msgid "Preserve preview if not defined:"
-msgstr ""
+msgstr "الاحتفاظ بالمعاينة إذا لم يتم تحديدها:"
 
 msgid "Read Apikey OMDB from file /tmp/omdbapikey.txt"
-msgstr ""
+msgstr "اقرأ Apikey OMDB من الملف /tmp/omdbapikey.txt"
 
 msgid "Read Apikey TMDB from file /tmp/tmdbapikey.txt"
-msgstr ""
+msgstr "اقرأ Apikey TMDB من الملف /tmp/tmdbapikey.txt"
 
 msgid "Read style configuration from skin:"
-msgstr ""
+msgstr "قراءة تكوين النمط من الجلد:"
 
 msgid "Remove all png Poster:"
-msgstr ""
+msgstr "إزالة جميع الملصقات png:"
 
 msgid "Reset skin"
-msgstr ""
+msgstr "إعادة ضبط الجلد"
 
 msgid "Reset skin?"
-msgstr ""
+msgstr "إعادة ضبط الجلد؟"
 
 msgid "Restart GUI now?"
-msgstr ""
+msgstr "هل تريد إعادة تشغيل واجهة المستخدم الرسومية الآن؟"
 
 msgid "Save"
-msgstr ""
+msgstr "يحفظ"
 
 msgid "Set Your Apikey OMDB"
-msgstr ""
+msgstr "قم بتعيين Apikey OMDB الخاص بك"
 
 msgid "Set Your Apikey TMDB"
-msgstr ""
+msgstr "قم بتعيين Apikey TMDB الخاص بك"
 
 msgid "Setup"
-msgstr ""
+msgstr "يثبت"
 
 msgid "Skin exist!! Do you really want to Upgrade?"
-msgstr ""
+msgstr "الجلد موجود!! هل تريد حقا الترقية؟"
 
 msgid "Skin update:"
-msgstr ""
+msgstr "تحديث الجلد:"
 
 msgid "Style presets contains errors!"
-msgstr ""
+msgstr "الإعدادات المسبقة للنمط تحتوي على أخطاء!"
 
 msgid "Style your zSkin"
-msgstr ""
+msgstr "قم بتصميم zSkin الخاص بك"
 
 msgid "TMDB API:"
-msgstr ""
+msgstr "واجهة برمجة تطبيقات TMDB:"
 
 msgid "TMDB ApiKey Imported & Stored!"
-msgstr ""
+msgstr "تم استيراد وتخزين TMDB ApiKey!"
 
 msgid "The skin is not styled - restore canceled!"
-msgstr ""
+msgstr "الجلد غير مصفف - تم إلغاء الاستعادة!"
 
 msgid "The skin not exists - restore canceled!"
-msgstr ""
+msgstr "الجلد غير موجود - تم إلغاء الاستعادة!"
 
 msgid "Would you really reset this skin?"
-msgstr ""
+msgstr "هل حقا إعادة ضبط هذا الجلد؟"
 
 msgid "play/show Files"
-msgstr ""
+msgstr "تشغيل/إظهار الملفات"

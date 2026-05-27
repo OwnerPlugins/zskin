@@ -10,115 +10,115 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 
 msgid "All png are removed from folder!"
-msgstr ""
+msgstr "Thèid a h-uile png a thoirt air falbh bhon phasgan!"
 
 msgid "Close"
-msgstr ""
+msgstr "Dùin"
 
 msgid "Current skin can not styled!"
-msgstr ""
+msgstr "Chan urrainnear craiceann gnàthach a stialladh!"
 
 msgid "Default"
-msgstr ""
+msgstr "Deònach"
 
 msgid "Del Line"
-msgstr ""
+msgstr "Loidhne Del"
 
 msgid "Exit"
-msgstr ""
+msgstr "Ar-a-mach"
 
 msgid "File Commander - Addon"
 msgstr ""
 
 msgid "Import Api Key OMDB from /tmp/omdbapikey.txt?"
-msgstr ""
+msgstr "Cuir a-steach Api Key OMDB bho /tmp/omdbapikey.txt?"
 
 msgid "Import Api Key TMDB from /tmp/tmdbapikey.txt?"
-msgstr ""
+msgstr "Cuir a-steach Api Key TMDB bho /tmp/tmdbapikey.txt?"
 
 msgid "Info..."
-msgstr ""
+msgstr "Fiosrachadh..."
 
 msgid "Ins Line"
-msgstr ""
+msgstr "Loidhne a-staigh"
 
 msgid "Missing %s !"
-msgstr ""
+msgstr "%s a dhìth!"
 
 msgid "No previous styled skin - restore canceled!"
-msgstr ""
+msgstr "Gun chraiceann le stoidhle roimhe - chaidh ath-nuadhachadh a chuir dheth!"
 
 msgid "OMDB API:"
 msgstr ""
 
 msgid "OMDB ApiKey Imported & Stored!"
-msgstr ""
+msgstr "OMDB ApiKey air a thoirt a-steach & air a stòradh!"
 
 msgid "PRESET"
-msgstr ""
+msgstr "PREASACHADH"
 
 msgid "Preserve preview if not defined:"
-msgstr ""
+msgstr "Glèidh ro-shealladh mura h-eil e air a mhìneachadh:"
 
 msgid "Read Apikey OMDB from file /tmp/omdbapikey.txt"
-msgstr ""
+msgstr "Leugh Apikey OMDB bho fhaidhle /tmp/omdbapikey.txt"
 
 msgid "Read Apikey TMDB from file /tmp/tmdbapikey.txt"
-msgstr ""
+msgstr "Leugh Apikey TMDB bho fhaidhle /tmp/tmdbapikey.txt"
 
 msgid "Read style configuration from skin:"
-msgstr ""
+msgstr "Leugh rèiteachadh stoidhle bhon chraiceann:"
 
 msgid "Remove all png Poster:"
-msgstr ""
+msgstr "Thoir air falbh a h-uile postair png:"
 
 msgid "Reset skin"
-msgstr ""
+msgstr "Ath-shuidhich craiceann"
 
 msgid "Reset skin?"
-msgstr ""
+msgstr "Ath-shuidheachadh craiceann?"
 
 msgid "Restart GUI now?"
-msgstr ""
+msgstr "Ath-thòiseachadh GUI a-nis?"
 
 msgid "Save"
-msgstr ""
+msgstr "Sàbhail"
 
 msgid "Set Your Apikey OMDB"
-msgstr ""
+msgstr "Suidhich an OMDB Apikey agad"
 
 msgid "Set Your Apikey TMDB"
-msgstr ""
+msgstr "Suidhich an TMDB Apikey agad"
 
 msgid "Setup"
-msgstr ""
+msgstr "Suidhich"
 
 msgid "Skin exist!! Do you really want to Upgrade?"
-msgstr ""
+msgstr "Tha craiceann ann!! A bheil thu dha-rìribh ag iarraidh ùrachadh?"
 
 msgid "Skin update:"
-msgstr ""
+msgstr "Ùrachadh craiceann:"
 
 msgid "Style presets contains errors!"
-msgstr ""
+msgstr "Tha mearachdan ann an stoidhle presets!"
 
 msgid "Style your zSkin"
-msgstr ""
+msgstr "Stoidhle do zSkin"
 
 msgid "TMDB API:"
-msgstr ""
+msgstr "API TMDB:"
 
 msgid "TMDB ApiKey Imported & Stored!"
-msgstr ""
+msgstr "TMDB ApiKey air a thoirt a-steach & air a stòradh!"
 
 msgid "The skin is not styled - restore canceled!"
-msgstr ""
+msgstr "Chan eil an craiceann air a stialladh - chaidh ath-nuadhachadh a chuir dheth!"
 
 msgid "The skin not exists - restore canceled!"
-msgstr ""
+msgstr "Chan eil an craiceann ann - chaidh ath-nuadhachadh a chuir dheth!"
 
 msgid "Would you really reset this skin?"
-msgstr ""
+msgstr "Am biodh tu dha-rìribh ag ath-shuidheachadh a’ chraicinn seo?"
 
 msgid "play/show Files"
-msgstr ""
+msgstr "cluich / seall Faidhlichean"

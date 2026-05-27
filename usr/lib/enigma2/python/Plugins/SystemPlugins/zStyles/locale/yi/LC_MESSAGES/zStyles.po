@@ -10,115 +10,115 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 
 msgid "All png are removed from folder!"
-msgstr ""
+msgstr "אַלע פּנג זענען אַוועקגענומען פון טעקע!"
 
 msgid "Close"
-msgstr ""
+msgstr "נאָענט"
 
 msgid "Current skin can not styled!"
-msgstr ""
+msgstr "קראַנט הויט קענען נישט סטיילד!"
 
 msgid "Default"
-msgstr ""
+msgstr "פעליקייַט"
 
 msgid "Del Line"
-msgstr ""
+msgstr "דעל ליניע"
 
 msgid "Exit"
-msgstr ""
+msgstr "אַרויסגאַנג"
 
 msgid "File Commander - Addon"
-msgstr ""
+msgstr "טעקע קאַמאַנדער - אַדדאָן"
 
 msgid "Import Api Key OMDB from /tmp/omdbapikey.txt?"
-msgstr ""
+msgstr "אַרייַנפיר אַפּי שליסל אָמדב פֿון /tmp/omdbapikey.txt?"
 
 msgid "Import Api Key TMDB from /tmp/tmdbapikey.txt?"
-msgstr ""
+msgstr "אַרייַנפיר אַפּי שליסל טמדב פֿון /tmp/tmdbapikey.txt?"
 
 msgid "Info..."
-msgstr ""
+msgstr "אינפֿאָרמאַציע ..."
 
 msgid "Ins Line"
-msgstr ""
+msgstr "אינס ליניע"
 
 msgid "Missing %s !"
-msgstr ""
+msgstr "פעלנדיק %s!"
 
 msgid "No previous styled skin - restore canceled!"
-msgstr ""
+msgstr "קיין פרייַערדיק סטיילד הויט - ומקערן קאַנסאַלד!"
 
 msgid "OMDB API:"
 msgstr ""
 
 msgid "OMDB ApiKey Imported & Stored!"
-msgstr ""
+msgstr "OMDB ApiKey ימפּאָרטיד און סטאָרד!"
 
 msgid "PRESET"
 msgstr ""
 
 msgid "Preserve preview if not defined:"
-msgstr ""
+msgstr "ופהיטן פאָרויסיקע ווייַזונג אויב ניט דיפיינד:"
 
 msgid "Read Apikey OMDB from file /tmp/omdbapikey.txt"
-msgstr ""
+msgstr "לייענען Apikey OMDB פֿון טעקע /tmp/omdbapikey.txt"
 
 msgid "Read Apikey TMDB from file /tmp/tmdbapikey.txt"
-msgstr ""
+msgstr "לייענען Apikey TMDB פֿון טעקע /tmp/tmdbapikey.txt"
 
 msgid "Read style configuration from skin:"
-msgstr ""
+msgstr "לייענען סטיל קאַנפיגיעריישאַן פון הויט:"
 
 msgid "Remove all png Poster:"
-msgstr ""
+msgstr "אַראָפּנעמען אַלע פּנג פּאָסטער:"
 
 msgid "Reset skin"
-msgstr ""
+msgstr "באַשטעטיק הויט"
 
 msgid "Reset skin?"
-msgstr ""
+msgstr "באַשטעטיק הויט?"
 
 msgid "Restart GUI now?"
-msgstr ""
+msgstr "ריסטאַרט GUI איצט?"
 
 msgid "Save"
-msgstr ""
+msgstr "היט"
 
 msgid "Set Your Apikey OMDB"
-msgstr ""
+msgstr "באַשטעטיק דיין Apikey OMDB"
 
 msgid "Set Your Apikey TMDB"
-msgstr ""
+msgstr "באַשטעטיק דיין Apikey TMDB"
 
 msgid "Setup"
-msgstr ""
+msgstr "סעטאַפּ"
 
 msgid "Skin exist!! Do you really want to Upgrade?"
-msgstr ""
+msgstr "הויט עקסיסטירן!! צי איר טאַקע ווילן צו אַפּגרייד?"
 
 msgid "Skin update:"
-msgstr ""
+msgstr "הויט דערהייַנטיקן:"
 
 msgid "Style presets contains errors!"
-msgstr ""
+msgstr "נוסח פּרעסעץ כּולל ערראָרס!"
 
 msgid "Style your zSkin"
-msgstr ""
+msgstr "סטיל דיין זסקין"
 
 msgid "TMDB API:"
 msgstr ""
 
 msgid "TMDB ApiKey Imported & Stored!"
-msgstr ""
+msgstr "TMDB ApiKey ימפּאָרטיד און סטאָרד!"
 
 msgid "The skin is not styled - restore canceled!"
-msgstr ""
+msgstr "די הויט איז נישט סטיילד - ריסטאָר קאַנסאַלד!"
 
 msgid "The skin not exists - restore canceled!"
-msgstr ""
+msgstr "די הויט איז נישט יגזיסץ - ומקערן קאַנסאַלד!"
 
 msgid "Would you really reset this skin?"
-msgstr ""
+msgstr "וואָלט איר טאַקע באַשטעטיק דעם הויט?"
 
 msgid "play/show Files"
-msgstr ""
+msgstr "שפּיל / ווייַזן טעקעס"

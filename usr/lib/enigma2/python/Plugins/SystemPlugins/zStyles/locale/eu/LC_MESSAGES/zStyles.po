@@ -10,115 +10,115 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 
 msgid "All png are removed from folder!"
-msgstr ""
+msgstr "PNG guztiak karpetatik kendu dira!"
 
 msgid "Close"
-msgstr ""
+msgstr "Itxi"
 
 msgid "Current skin can not styled!"
-msgstr ""
+msgstr "Egungo larruazala ezin da estilizatu!"
 
 msgid "Default"
-msgstr ""
+msgstr "Lehenetsia"
 
 msgid "Del Line"
 msgstr ""
 
 msgid "Exit"
-msgstr ""
+msgstr "Irten"
 
 msgid "File Commander - Addon"
-msgstr ""
+msgstr "File Commander - Gehigarria"
 
 msgid "Import Api Key OMDB from /tmp/omdbapikey.txt?"
-msgstr ""
+msgstr "Api gakoa OMDB inportatu /tmp/omdbapikey.txt-etik?"
 
 msgid "Import Api Key TMDB from /tmp/tmdbapikey.txt?"
-msgstr ""
+msgstr "Api gakoa TMDB inportatu /tmp/tmdbapikey.txt-etik?"
 
 msgid "Info..."
-msgstr ""
+msgstr "Informazioa..."
 
 msgid "Ins Line"
-msgstr ""
+msgstr "Ins Linea"
 
 msgid "Missing %s !"
-msgstr ""
+msgstr "%s falta da!"
 
 msgid "No previous styled skin - restore canceled!"
-msgstr ""
+msgstr "Ez dago aurreko estiloko azala - berrezartzea bertan behera!"
 
 msgid "OMDB API:"
-msgstr ""
+msgstr "OMDB APIa:"
 
 msgid "OMDB ApiKey Imported & Stored!"
-msgstr ""
+msgstr "OMDB ApiKey inportatua eta gordeta!"
 
 msgid "PRESET"
 msgstr ""
 
 msgid "Preserve preview if not defined:"
-msgstr ""
+msgstr "Gorde aurrebista definitu ez bada:"
 
 msgid "Read Apikey OMDB from file /tmp/omdbapikey.txt"
-msgstr ""
+msgstr "Irakurri Apikey OMDB /tmp/omdbapikey.txt fitxategitik"
 
 msgid "Read Apikey TMDB from file /tmp/tmdbapikey.txt"
-msgstr ""
+msgstr "Irakurri Apikey TMDB /tmp/tmdbapikey.txt fitxategitik"
 
 msgid "Read style configuration from skin:"
-msgstr ""
+msgstr "Irakurri estiloaren konfigurazioa azaletik:"
 
 msgid "Remove all png Poster:"
-msgstr ""
+msgstr "Kendu png kartela guztiak:"
 
 msgid "Reset skin"
-msgstr ""
+msgstr "Berrezarri azala"
 
 msgid "Reset skin?"
-msgstr ""
+msgstr "Azala berrezarri?"
 
 msgid "Restart GUI now?"
-msgstr ""
+msgstr "GUI berrabiarazi orain?"
 
 msgid "Save"
-msgstr ""
+msgstr "Gorde"
 
 msgid "Set Your Apikey OMDB"
-msgstr ""
+msgstr "Ezarri zure Apikey OMDB"
 
 msgid "Set Your Apikey TMDB"
-msgstr ""
+msgstr "Ezarri zure Apikey TMDB"
 
 msgid "Setup"
-msgstr ""
+msgstr "Konfigurazioa"
 
 msgid "Skin exist!! Do you really want to Upgrade?"
-msgstr ""
+msgstr "Azala existitzen da!! Benetan Berritu nahi al duzu?"
 
 msgid "Skin update:"
-msgstr ""
+msgstr "Azala eguneratzea:"
 
 msgid "Style presets contains errors!"
-msgstr ""
+msgstr "Estilo aurreikuspenak akatsak ditu!"
 
 msgid "Style your zSkin"
-msgstr ""
+msgstr "Estiloa zure zSkin"
 
 msgid "TMDB API:"
-msgstr ""
+msgstr "TMDB APIa:"
 
 msgid "TMDB ApiKey Imported & Stored!"
-msgstr ""
+msgstr "TMDB ApiKey inportatua eta gordeta!"
 
 msgid "The skin is not styled - restore canceled!"
-msgstr ""
+msgstr "Azala ez dago estiloa - berrezartzea bertan behera!"
 
 msgid "The skin not exists - restore canceled!"
-msgstr ""
+msgstr "Azala ez da existitzen - berrezartzea bertan behera!"
 
 msgid "Would you really reset this skin?"
-msgstr ""
+msgstr "Benetan berrezarri al zenuke azala?"
 
 msgid "play/show Files"
-msgstr ""
+msgstr "erreproduzitu/erakutsi Fitxategiak"

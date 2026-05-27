@@ -10,115 +10,115 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 
 msgid "All png are removed from folder!"
-msgstr ""
+msgstr "Hemû png ji peldankê têne rakirin!"
 
 msgid "Close"
-msgstr ""
+msgstr "Nêzîkî"
 
 msgid "Current skin can not styled!"
-msgstr ""
+msgstr "Çermê heyî nayê şêwazê!"
 
 msgid "Default"
-msgstr ""
+msgstr "Destçûnî"
 
 msgid "Del Line"
 msgstr ""
 
 msgid "Exit"
-msgstr ""
+msgstr "Derî"
 
 msgid "File Commander - Addon"
-msgstr ""
+msgstr "Fermandarê Pelê - Addon"
 
 msgid "Import Api Key OMDB from /tmp/omdbapikey.txt?"
-msgstr ""
+msgstr "Api Key OMDB ji /tmp/omdbapikey.txt têxe?"
 
 msgid "Import Api Key TMDB from /tmp/tmdbapikey.txt?"
-msgstr ""
+msgstr "Api Key TMDB ji /tmp/tmdbapikey.txt tê import kirin?"
 
 msgid "Info..."
-msgstr ""
+msgstr "Agahî..."
 
 msgid "Ins Line"
 msgstr ""
 
 msgid "Missing %s !"
-msgstr ""
+msgstr "%s winda ye !"
 
 msgid "No previous styled skin - restore canceled!"
-msgstr ""
+msgstr "Çermê şêwazê berê tune - vegerandin betal kirin!"
 
 msgid "OMDB API:"
 msgstr ""
 
 msgid "OMDB ApiKey Imported & Stored!"
-msgstr ""
+msgstr "OMDB ApiKey Hatiye & hilanîn!"
 
 msgid "PRESET"
-msgstr ""
+msgstr "PÊŞKIRIN"
 
 msgid "Preserve preview if not defined:"
-msgstr ""
+msgstr "Ger nehate diyarkirin pêşdîtina xwe biparêze:"
 
 msgid "Read Apikey OMDB from file /tmp/omdbapikey.txt"
-msgstr ""
+msgstr "Apikey OMDB ji pelê /tmp/omdbapikey.txt bixwînin"
 
 msgid "Read Apikey TMDB from file /tmp/tmdbapikey.txt"
-msgstr ""
+msgstr "Apikey TMDB ji pelê /tmp/tmdbapikey.txt bixwînin"
 
 msgid "Read style configuration from skin:"
-msgstr ""
+msgstr "Veavakirina şêwazê ji çerm bixwînin:"
 
 msgid "Remove all png Poster:"
-msgstr ""
+msgstr "Hemî posterê png jêbirin:"
 
 msgid "Reset skin"
-msgstr ""
+msgstr "Çermê nûve bike"
 
 msgid "Reset skin?"
-msgstr ""
+msgstr "Çermê vegerîne?"
 
 msgid "Restart GUI now?"
-msgstr ""
+msgstr "Niha GUI ji nû ve bidin destpêkirin?"
 
 msgid "Save"
-msgstr ""
+msgstr "Rizgarkirin"
 
 msgid "Set Your Apikey OMDB"
-msgstr ""
+msgstr "Apikey OMDB-a xwe saz bikin"
 
 msgid "Set Your Apikey TMDB"
-msgstr ""
+msgstr "Apikey TMDB-a xwe saz bikin"
 
 msgid "Setup"
-msgstr ""
+msgstr "Damezirandin"
 
 msgid "Skin exist!! Do you really want to Upgrade?"
-msgstr ""
+msgstr "Çerm heye!! Ma hûn bi rastî dixwazin Nûve bikin?"
 
 msgid "Skin update:"
-msgstr ""
+msgstr "Nûvekirina çerm:"
 
 msgid "Style presets contains errors!"
-msgstr ""
+msgstr "Pêşdaçekên şêwazê xeletiyan dihewîne!"
 
 msgid "Style your zSkin"
-msgstr ""
+msgstr "ZSkinê xwe şêwaz bikin"
 
 msgid "TMDB API:"
 msgstr ""
 
 msgid "TMDB ApiKey Imported & Stored!"
-msgstr ""
+msgstr "TMDB ApiKey Hatiye & hilanîn!"
 
 msgid "The skin is not styled - restore canceled!"
-msgstr ""
+msgstr "Çerm nayê şêwazê - restore betal kirin!"
 
 msgid "The skin not exists - restore canceled!"
-msgstr ""
+msgstr "Çerm tune - restore betal kirin!"
 
 msgid "Would you really reset this skin?"
-msgstr ""
+msgstr "Ma hûn ê bi rastî vê çermê ji nû ve bikin?"
 
 msgid "play/show Files"
-msgstr ""
+msgstr "lîstin / Pelan nîşan bide"

@@ -10,115 +10,115 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 
 msgid "All png are removed from folder!"
-msgstr ""
+msgstr "Բոլոր png-ները հեռացվել են պանակից:"
 
 msgid "Close"
-msgstr ""
+msgstr "Փակել"
 
 msgid "Current skin can not styled!"
-msgstr ""
+msgstr "Ներկայիս մաշկը չի կարող հարդարվել:"
 
 msgid "Default"
-msgstr ""
+msgstr "Կանխադրված"
 
 msgid "Del Line"
-msgstr ""
+msgstr "Դել Լայն"
 
 msgid "Exit"
-msgstr ""
+msgstr "Ելք"
 
 msgid "File Commander - Addon"
-msgstr ""
+msgstr "Ֆայլի հրամանատար - Addon"
 
 msgid "Import Api Key OMDB from /tmp/omdbapikey.txt?"
-msgstr ""
+msgstr "Ներմուծե՞լ Api բանալի OMDB /tmp/omdbapikey.txt-ից:"
 
 msgid "Import Api Key TMDB from /tmp/tmdbapikey.txt?"
-msgstr ""
+msgstr "Ներմուծե՞լ Api բանալի TMDB /tmp/tmdbapikey.txt-ից:"
 
 msgid "Info..."
-msgstr ""
+msgstr "Տեղեկություն..."
 
 msgid "Ins Line"
 msgstr ""
 
 msgid "Missing %s !"
-msgstr ""
+msgstr "Բացակայում է %s:"
 
 msgid "No previous styled skin - restore canceled!"
-msgstr ""
+msgstr "Նախկին ոճավորված մաշկ չկա. վերականգնումը չեղարկված է:"
 
 msgid "OMDB API:"
 msgstr ""
 
 msgid "OMDB ApiKey Imported & Stored!"
-msgstr ""
+msgstr "OMDB ApiKey-ը ներմուծվել և պահվել է:"
 
 msgid "PRESET"
-msgstr ""
+msgstr "Նախադրված"
 
 msgid "Preserve preview if not defined:"
-msgstr ""
+msgstr "Պահպանել նախադիտումը, եթե սահմանված չէ."
 
 msgid "Read Apikey OMDB from file /tmp/omdbapikey.txt"
-msgstr ""
+msgstr "Կարդացեք Apikey OMDB ֆայլից /tmp/omdbapikey.txt"
 
 msgid "Read Apikey TMDB from file /tmp/tmdbapikey.txt"
-msgstr ""
+msgstr "Կարդացեք Apikey TMDB ֆայլից /tmp/tmdbapikey.txt"
 
 msgid "Read style configuration from skin:"
-msgstr ""
+msgstr "Կարդացեք ոճի կոնֆիգուրացիան մաշկից."
 
 msgid "Remove all png Poster:"
-msgstr ""
+msgstr "Հեռացնել բոլոր png պաստառները."
 
 msgid "Reset skin"
-msgstr ""
+msgstr "Վերականգնել մաշկը"
 
 msgid "Reset skin?"
-msgstr ""
+msgstr "Վերականգնե՞լ մաշկը:"
 
 msgid "Restart GUI now?"
-msgstr ""
+msgstr "Վերագործարկե՞լ GUI-ն հիմա:"
 
 msgid "Save"
-msgstr ""
+msgstr "Պահպանել"
 
 msgid "Set Your Apikey OMDB"
-msgstr ""
+msgstr "Սահմանեք ձեր Apikey OMDB-ն"
 
 msgid "Set Your Apikey TMDB"
-msgstr ""
+msgstr "Սահմանեք ձեր Apikey TMDB-ն"
 
 msgid "Setup"
-msgstr ""
+msgstr "Կարգավորում"
 
 msgid "Skin exist!! Do you really want to Upgrade?"
-msgstr ""
+msgstr "Մաշկը գոյություն ունի!! Իսկապե՞ս ցանկանում եք թարմացնել:"
 
 msgid "Skin update:"
-msgstr ""
+msgstr "Մաշկի թարմացում."
 
 msgid "Style presets contains errors!"
-msgstr ""
+msgstr "Ոճի նախադրյալները պարունակում են սխալներ:"
 
 msgid "Style your zSkin"
-msgstr ""
+msgstr "Ոճավորեք ձեր zSkin-ը"
 
 msgid "TMDB API:"
 msgstr ""
 
 msgid "TMDB ApiKey Imported & Stored!"
-msgstr ""
+msgstr "TMDB ApiKey-ը ներմուծվել և պահվել է:"
 
 msgid "The skin is not styled - restore canceled!"
-msgstr ""
+msgstr "Մաշկը հարդարված չէ. վերականգնումը չեղարկված է:"
 
 msgid "The skin not exists - restore canceled!"
-msgstr ""
+msgstr "Մաշկը գոյություն չունի. վերականգնումը չեղարկված է:"
 
 msgid "Would you really reset this skin?"
-msgstr ""
+msgstr "Իսկապե՞ս կզրոյացնե՞ք այս մաշկը:"
 
 msgid "play/show Files"
-msgstr ""
+msgstr "խաղալ/ցուցադրել Ֆայլեր"

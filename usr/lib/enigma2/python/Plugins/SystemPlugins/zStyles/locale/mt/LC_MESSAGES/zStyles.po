@@ -10,13 +10,13 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 
 msgid "All png are removed from folder!"
-msgstr ""
+msgstr "Il-png kollha jitneħħew mill-folder!"
 
 msgid "Close"
-msgstr ""
+msgstr "Agħlaq"
 
 msgid "Current skin can not styled!"
-msgstr ""
+msgstr "Ġilda kurrenti ma tistax styled!"
 
 msgid "Default"
 msgstr ""
@@ -25,100 +25,100 @@ msgid "Del Line"
 msgstr ""
 
 msgid "Exit"
-msgstr ""
+msgstr "Ħruġ"
 
 msgid "File Commander - Addon"
 msgstr ""
 
 msgid "Import Api Key OMDB from /tmp/omdbapikey.txt?"
-msgstr ""
+msgstr "Importa Api Key OMDB minn /tmp/omdbapikey.txt?"
 
 msgid "Import Api Key TMDB from /tmp/tmdbapikey.txt?"
-msgstr ""
+msgstr "Importa Api Key TMDB minn /tmp/tmdbapikey.txt?"
 
 msgid "Info..."
-msgstr ""
+msgstr "Informazzjoni..."
 
 msgid "Ins Line"
-msgstr ""
+msgstr "Linja Ins"
 
 msgid "Missing %s !"
-msgstr ""
+msgstr "%s nieqsa!"
 
 msgid "No previous styled skin - restore canceled!"
-msgstr ""
+msgstr "Ebda ġilda styled preċedenti - restawr ikkanċellat!"
 
 msgid "OMDB API:"
 msgstr ""
 
 msgid "OMDB ApiKey Imported & Stored!"
-msgstr ""
+msgstr "OMDB ApiKey Importata u Maħżuna!"
 
 msgid "PRESET"
-msgstr ""
+msgstr "Issettjat minn qabel"
 
 msgid "Preserve preview if not defined:"
-msgstr ""
+msgstr "Ippreserva preview jekk mhux definit:"
 
 msgid "Read Apikey OMDB from file /tmp/omdbapikey.txt"
-msgstr ""
+msgstr "Aqra Apikey OMDB mill-fajl /tmp/omdbapikey.txt"
 
 msgid "Read Apikey TMDB from file /tmp/tmdbapikey.txt"
-msgstr ""
+msgstr "Aqra Apikey TMDB mill-fajl /tmp/tmdbapikey.txt"
 
 msgid "Read style configuration from skin:"
-msgstr ""
+msgstr "Aqra l-konfigurazzjoni tal-istil mill-ġilda:"
 
 msgid "Remove all png Poster:"
-msgstr ""
+msgstr "Neħħi l-Poster kollu png:"
 
 msgid "Reset skin"
-msgstr ""
+msgstr "Irrisettja l-ġilda"
 
 msgid "Reset skin?"
-msgstr ""
+msgstr "Irrisettja l-ġilda?"
 
 msgid "Restart GUI now?"
-msgstr ""
+msgstr "Ibda mill-ġdid GUI issa?"
 
 msgid "Save"
-msgstr ""
+msgstr "Ħlief"
 
 msgid "Set Your Apikey OMDB"
-msgstr ""
+msgstr "Issettja l-Apikey OMDB tiegħek"
 
 msgid "Set Your Apikey TMDB"
-msgstr ""
+msgstr "Issettja l-Apikey TMDB Tiegħek"
 
 msgid "Setup"
 msgstr ""
 
 msgid "Skin exist!! Do you really want to Upgrade?"
-msgstr ""
+msgstr "Ġilda jeżistu!! Verament trid Taġġorna?"
 
 msgid "Skin update:"
-msgstr ""
+msgstr "Aġġornament tal-ġilda:"
 
 msgid "Style presets contains errors!"
-msgstr ""
+msgstr "Il-presets tal-istil fih żbalji!"
 
 msgid "Style your zSkin"
-msgstr ""
+msgstr "Stil zSkin tiegħek"
 
 msgid "TMDB API:"
 msgstr ""
 
 msgid "TMDB ApiKey Imported & Stored!"
-msgstr ""
+msgstr "TMDB ApiKey Importata & Maħżuna!"
 
 msgid "The skin is not styled - restore canceled!"
-msgstr ""
+msgstr "Il-ġilda mhix styled - restawr ikkanċellat!"
 
 msgid "The skin not exists - restore canceled!"
-msgstr ""
+msgstr "Il-ġilda ma teżistix - restawr ikkanċellat!"
 
 msgid "Would you really reset this skin?"
-msgstr ""
+msgstr "Verament reset din il-ġilda?"
 
 msgid "play/show Files"
-msgstr ""
+msgstr "play/show Fajls"

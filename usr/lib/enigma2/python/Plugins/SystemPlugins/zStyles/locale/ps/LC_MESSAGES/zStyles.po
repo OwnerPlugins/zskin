@@ -10,115 +10,115 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 
 msgid "All png are removed from folder!"
-msgstr ""
+msgstr "ټول png له فولډر څخه لرې شوي!"
 
 msgid "Close"
-msgstr ""
+msgstr "تړل"
 
 msgid "Current skin can not styled!"
-msgstr ""
+msgstr "اوسنی پوټکی سټایل نشي کولی!"
 
 msgid "Default"
-msgstr ""
+msgstr "ډیفالټ"
 
 msgid "Del Line"
-msgstr ""
+msgstr "ډیل لاین"
 
 msgid "Exit"
-msgstr ""
+msgstr "وتل"
 
 msgid "File Commander - Addon"
-msgstr ""
+msgstr "د فایل کمانډر - اډون"
 
 msgid "Import Api Key OMDB from /tmp/omdbapikey.txt?"
-msgstr ""
+msgstr "د /tmp/omdbapikey.txt څخه د Api کیلي OMDB وارد کړئ؟"
 
 msgid "Import Api Key TMDB from /tmp/tmdbapikey.txt?"
-msgstr ""
+msgstr "د Api کیلي TMDB له /tmp/tmdbapikey.txt څخه وارد کړئ؟"
 
 msgid "Info..."
-msgstr ""
+msgstr "معلومات..."
 
 msgid "Ins Line"
-msgstr ""
+msgstr "Ins کرښه"
 
 msgid "Missing %s !"
-msgstr ""
+msgstr "ورک شوی %s!"
 
 msgid "No previous styled skin - restore canceled!"
-msgstr ""
+msgstr "هیڅ پخوانی سټایل شوی پوټکی نشته - بیرته راګرځول لغوه شوي!"
 
 msgid "OMDB API:"
 msgstr ""
 
 msgid "OMDB ApiKey Imported & Stored!"
-msgstr ""
+msgstr "OMDB ApiKey وارد شوی او زیرمه شوی!"
 
 msgid "PRESET"
 msgstr ""
 
 msgid "Preserve preview if not defined:"
-msgstr ""
+msgstr "د مخکتنې ساتل که تعریف شوی نه وي:"
 
 msgid "Read Apikey OMDB from file /tmp/omdbapikey.txt"
-msgstr ""
+msgstr "Apikey OMDB له فایل /tmp/omdbapikey.txt څخه ولولئ"
 
 msgid "Read Apikey TMDB from file /tmp/tmdbapikey.txt"
-msgstr ""
+msgstr "Apikey TMDB د فایل /tmp/tmdbapikey.txt څخه ولولئ"
 
 msgid "Read style configuration from skin:"
-msgstr ""
+msgstr "د پوستکي څخه د سټایل ترتیب ولولئ:"
 
 msgid "Remove all png Poster:"
-msgstr ""
+msgstr "ټول png پوسټر لرې کړئ:"
 
 msgid "Reset skin"
-msgstr ""
+msgstr "پوستکي بیا تنظیم کړئ"
 
 msgid "Reset skin?"
-msgstr ""
+msgstr "پوستکی بیا تنظیم کړئ؟"
 
 msgid "Restart GUI now?"
-msgstr ""
+msgstr "اوس GUI بیا پیل کړئ؟"
 
 msgid "Save"
-msgstr ""
+msgstr "خوندي کړئ"
 
 msgid "Set Your Apikey OMDB"
-msgstr ""
+msgstr "خپل Apikey OMDB تنظیم کړئ"
 
 msgid "Set Your Apikey TMDB"
-msgstr ""
+msgstr "خپل Apikey TMDB تنظیم کړئ"
 
 msgid "Setup"
-msgstr ""
+msgstr "چمتو کول"
 
 msgid "Skin exist!! Do you really want to Upgrade?"
-msgstr ""
+msgstr "پوست شتون لري !! ایا تاسو واقعیا غواړئ لوړ کړئ؟"
 
 msgid "Skin update:"
-msgstr ""
+msgstr "د پوستکي تازه کول:"
 
 msgid "Style presets contains errors!"
-msgstr ""
+msgstr "سټایل پریسیټس کې غلطۍ شتون لري!"
 
 msgid "Style your zSkin"
-msgstr ""
+msgstr "خپل zSkin سټایل کړئ"
 
 msgid "TMDB API:"
 msgstr ""
 
 msgid "TMDB ApiKey Imported & Stored!"
-msgstr ""
+msgstr "TMDB ApiKey وارد شوی او زیرمه شوی!"
 
 msgid "The skin is not styled - restore canceled!"
-msgstr ""
+msgstr "پوټکی سټایل شوی نه دی - بیرته راګرځول لغوه شوی!"
 
 msgid "The skin not exists - restore canceled!"
-msgstr ""
+msgstr "پوټکی شتون نلري - بیرته راګرځول لغوه شوي!"
 
 msgid "Would you really reset this skin?"
-msgstr ""
+msgstr "ایا تاسو واقعیا دا پوست بیا تنظیم کړئ؟"
 
 msgid "play/show Files"
-msgstr ""
+msgstr "فایلونه پلی / ښکاره کړئ"

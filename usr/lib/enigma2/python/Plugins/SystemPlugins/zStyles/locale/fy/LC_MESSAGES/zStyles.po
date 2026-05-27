@@ -10,115 +10,115 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 
 msgid "All png are removed from folder!"
-msgstr ""
+msgstr "Alle png binne fuortsmiten út map!"
 
 msgid "Close"
-msgstr ""
+msgstr "Slute"
 
 msgid "Current skin can not styled!"
-msgstr ""
+msgstr "Huidige hûd kin net styleare!"
 
 msgid "Default"
-msgstr ""
+msgstr "Standert"
 
 msgid "Del Line"
 msgstr ""
 
 msgid "Exit"
-msgstr ""
+msgstr "Útgong"
 
 msgid "File Commander - Addon"
 msgstr ""
 
 msgid "Import Api Key OMDB from /tmp/omdbapikey.txt?"
-msgstr ""
+msgstr "Api Key OMDB ymportearje fan /tmp/omdbapikey.txt?"
 
 msgid "Import Api Key TMDB from /tmp/tmdbapikey.txt?"
-msgstr ""
+msgstr "Api Key TMDB ymportearje fan /tmp/tmdbapikey.txt?"
 
 msgid "Info..."
 msgstr ""
 
 msgid "Ins Line"
-msgstr ""
+msgstr "Yns Line"
 
 msgid "Missing %s !"
-msgstr ""
+msgstr "Mist %s!"
 
 msgid "No previous styled skin - restore canceled!"
-msgstr ""
+msgstr "Gjin foarige stylige hûd - herstel annulearre!"
 
 msgid "OMDB API:"
 msgstr ""
 
 msgid "OMDB ApiKey Imported & Stored!"
-msgstr ""
+msgstr "OMDB ApiKey ymportearre en opslein!"
 
 msgid "PRESET"
 msgstr ""
 
 msgid "Preserve preview if not defined:"
-msgstr ""
+msgstr "Bewarje foarbyld as net definiearre:"
 
 msgid "Read Apikey OMDB from file /tmp/omdbapikey.txt"
-msgstr ""
+msgstr "Lês Apikey OMDB út triem /tmp/omdbapikey.txt"
 
 msgid "Read Apikey TMDB from file /tmp/tmdbapikey.txt"
-msgstr ""
+msgstr "Lês Apikey TMDB út triem /tmp/tmdbapikey.txt"
 
 msgid "Read style configuration from skin:"
-msgstr ""
+msgstr "Lês stylkonfiguraasje fan hûd:"
 
 msgid "Remove all png Poster:"
-msgstr ""
+msgstr "Alle png-poster fuortsmite:"
 
 msgid "Reset skin"
-msgstr ""
+msgstr "Skin weromsette"
 
 msgid "Reset skin?"
-msgstr ""
+msgstr "Skin weromsette?"
 
 msgid "Restart GUI now?"
-msgstr ""
+msgstr "GUI no opnij starte?"
 
 msgid "Save"
-msgstr ""
+msgstr "Rêde"
 
 msgid "Set Your Apikey OMDB"
-msgstr ""
+msgstr "Stel jo Apikey OMDB yn"
 
 msgid "Set Your Apikey TMDB"
-msgstr ""
+msgstr "Stel jo Apikey TMDB yn"
 
 msgid "Setup"
-msgstr ""
+msgstr "Opsette"
 
 msgid "Skin exist!! Do you really want to Upgrade?"
-msgstr ""
+msgstr "Skin bestiet!! Wolle jo echt upgrade?"
 
 msgid "Skin update:"
 msgstr ""
 
 msgid "Style presets contains errors!"
-msgstr ""
+msgstr "Stylfoarynstellingen befetsje flaters!"
 
 msgid "Style your zSkin"
-msgstr ""
+msgstr "Stylje jo zSkin"
 
 msgid "TMDB API:"
 msgstr ""
 
 msgid "TMDB ApiKey Imported & Stored!"
-msgstr ""
+msgstr "TMDB ApiKey ymportearre en opslein!"
 
 msgid "The skin is not styled - restore canceled!"
-msgstr ""
+msgstr "De hûd is net styled - herstel annulearre!"
 
 msgid "The skin not exists - restore canceled!"
-msgstr ""
+msgstr "De hûd bestiet net - herstel annulearre!"
 
 msgid "Would you really reset this skin?"
-msgstr ""
+msgstr "Wolle jo dizze hûd echt weromsette?"
 
 msgid "play/show Files"
-msgstr ""
+msgstr "boartsje / show Files"

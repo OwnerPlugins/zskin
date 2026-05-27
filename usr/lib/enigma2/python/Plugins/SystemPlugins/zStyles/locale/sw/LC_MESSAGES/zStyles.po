@@ -10,115 +10,115 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 
 msgid "All png are removed from folder!"
-msgstr ""
+msgstr "Png zote zimeondolewa kwenye folda!"
 
 msgid "Close"
-msgstr ""
+msgstr "Funga"
 
 msgid "Current skin can not styled!"
-msgstr ""
+msgstr "Ngozi ya sasa haiwezi kutengenezwa!"
 
 msgid "Default"
-msgstr ""
+msgstr "Chaguomsingi"
 
 msgid "Del Line"
 msgstr ""
 
 msgid "Exit"
-msgstr ""
+msgstr "Utgång"
 
 msgid "File Commander - Addon"
-msgstr ""
+msgstr "Kamanda wa faili - Addon"
 
 msgid "Import Api Key OMDB from /tmp/omdbapikey.txt?"
-msgstr ""
+msgstr "Leta Ufunguo wa Api OMDB kutoka /tmp/omdbapikey.txt?"
 
 msgid "Import Api Key TMDB from /tmp/tmdbapikey.txt?"
-msgstr ""
+msgstr "Leta Ufunguo wa Api TMDB kutoka /tmp/tmdbapikey.txt?"
 
 msgid "Info..."
-msgstr ""
+msgstr "Taarifa..."
 
 msgid "Ins Line"
 msgstr ""
 
 msgid "Missing %s !"
-msgstr ""
+msgstr "Haipo %s !"
 
 msgid "No previous styled skin - restore canceled!"
-msgstr ""
+msgstr "Hakuna ngozi iliyopitwa na wakati - urejeshaji umeghairiwa!"
 
 msgid "OMDB API:"
-msgstr ""
+msgstr "API ya OMDB:"
 
 msgid "OMDB ApiKey Imported & Stored!"
-msgstr ""
+msgstr "OMDB ApiKey Imeingizwa na Kuhifadhiwa!"
 
 msgid "PRESET"
-msgstr ""
+msgstr "TAYARISHA"
 
 msgid "Preserve preview if not defined:"
-msgstr ""
+msgstr "Hifadhi onyesho la kukagua ikiwa haijafafanuliwa:"
 
 msgid "Read Apikey OMDB from file /tmp/omdbapikey.txt"
-msgstr ""
+msgstr "Soma Apikey OMDB kutoka faili /tmp/omdbapikey.txt"
 
 msgid "Read Apikey TMDB from file /tmp/tmdbapikey.txt"
-msgstr ""
+msgstr "Soma Apikey TMDB kutoka faili /tmp/tmdbapikey.txt"
 
 msgid "Read style configuration from skin:"
-msgstr ""
+msgstr "Soma usanidi wa mtindo kutoka kwa ngozi:"
 
 msgid "Remove all png Poster:"
-msgstr ""
+msgstr "Ondoa Bango lote la png:"
 
 msgid "Reset skin"
-msgstr ""
+msgstr "Weka upya ngozi"
 
 msgid "Reset skin?"
-msgstr ""
+msgstr "Ungependa kuweka upya ngozi?"
 
 msgid "Restart GUI now?"
-msgstr ""
+msgstr "Ungependa kuanzisha upya GUI sasa?"
 
 msgid "Save"
-msgstr ""
+msgstr "Hifadhi"
 
 msgid "Set Your Apikey OMDB"
-msgstr ""
+msgstr "Weka Apikey OMDB yako"
 
 msgid "Set Your Apikey TMDB"
-msgstr ""
+msgstr "Weka Apikey TMDB yako"
 
 msgid "Setup"
-msgstr ""
+msgstr "Sanidi"
 
 msgid "Skin exist!! Do you really want to Upgrade?"
-msgstr ""
+msgstr "Ngozi ipo!! Je, kweli unataka Kuboresha?"
 
 msgid "Skin update:"
-msgstr ""
+msgstr "Sasisho la ngozi:"
 
 msgid "Style presets contains errors!"
-msgstr ""
+msgstr "Mipangilio ya awali ya mtindo ina makosa!"
 
 msgid "Style your zSkin"
-msgstr ""
+msgstr "Mtindo zSkin yako"
 
 msgid "TMDB API:"
 msgstr ""
 
 msgid "TMDB ApiKey Imported & Stored!"
-msgstr ""
+msgstr "TMDB ApiKey Imeingizwa na Kuhifadhiwa!"
 
 msgid "The skin is not styled - restore canceled!"
-msgstr ""
+msgstr "Ngozi haijatengenezwa - kurejesha kufutwa!"
 
 msgid "The skin not exists - restore canceled!"
-msgstr ""
+msgstr "Ngozi haipo - kurejesha kufutwa!"
 
 msgid "Would you really reset this skin?"
-msgstr ""
+msgstr "Je, kweli unaweza kuweka upya ngozi hii?"
 
 msgid "play/show Files"
-msgstr ""
+msgstr "cheza/onyesha Faili"

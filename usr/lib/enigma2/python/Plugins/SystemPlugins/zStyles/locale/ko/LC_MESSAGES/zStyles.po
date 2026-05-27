@@ -11,115 +11,115 @@ msgstr ""
 "Plural-Forms: nplurals=1; plural=0;\n"
 
 msgid "All png are removed from folder!"
-msgstr ""
+msgstr "모든 png가 폴더에서 제거되었습니다!"
 
 msgid "Close"
-msgstr ""
+msgstr "닫다"
 
 msgid "Current skin can not styled!"
-msgstr ""
+msgstr "현재 피부는 스타일링이 불가능해요!"
 
 msgid "Default"
-msgstr ""
+msgstr "기본"
 
 msgid "Del Line"
-msgstr ""
+msgstr "델라인"
 
 msgid "Exit"
-msgstr ""
+msgstr "출구"
 
 msgid "File Commander - Addon"
-msgstr ""
+msgstr "파일 커맨더 - 애드온"
 
 msgid "Import Api Key OMDB from /tmp/omdbapikey.txt?"
-msgstr ""
+msgstr "/tmp/omdbapikey.txt에서 API 키 OMDB를 가져오시겠습니까?"
 
 msgid "Import Api Key TMDB from /tmp/tmdbapikey.txt?"
-msgstr ""
+msgstr "/tmp/tmdbapikey.txt에서 API 키 TMDB를 가져오시겠습니까?"
 
 msgid "Info..."
-msgstr ""
+msgstr "정보..."
 
 msgid "Ins Line"
-msgstr ""
+msgstr "인라인"
 
 msgid "Missing %s !"
-msgstr ""
+msgstr "%s이(가) 없습니다!"
 
 msgid "No previous styled skin - restore canceled!"
-msgstr ""
+msgstr "이전 스타일의 스킨이 없습니다. 복원이 취소되었습니다!"
 
 msgid "OMDB API:"
 msgstr ""
 
 msgid "OMDB ApiKey Imported & Stored!"
-msgstr ""
+msgstr "OMDB ApiKey 가져오기 및 저장됨!"
 
 msgid "PRESET"
-msgstr ""
+msgstr "프리셋"
 
 msgid "Preserve preview if not defined:"
-msgstr ""
+msgstr "정의되지 않은 경우 미리보기를 유지합니다."
 
 msgid "Read Apikey OMDB from file /tmp/omdbapikey.txt"
-msgstr ""
+msgstr "/tmp/omdbapikey.txt 파일에서 Apikey OMDB를 읽습니다."
 
 msgid "Read Apikey TMDB from file /tmp/tmdbapikey.txt"
-msgstr ""
+msgstr "/tmp/tmdbapikey.txt 파일에서 Apikey TMDB를 읽습니다."
 
 msgid "Read style configuration from skin:"
-msgstr ""
+msgstr "스킨에서 스타일 구성을 읽습니다."
 
 msgid "Remove all png Poster:"
-msgstr ""
+msgstr "모든 png 포스터 제거:"
 
 msgid "Reset skin"
-msgstr ""
+msgstr "스킨 재설정"
 
 msgid "Reset skin?"
-msgstr ""
+msgstr "스킨을 재설정하시겠습니까?"
 
 msgid "Restart GUI now?"
-msgstr ""
+msgstr "지금 GUI를 다시 시작하시겠습니까?"
 
 msgid "Save"
-msgstr ""
+msgstr "구하다"
 
 msgid "Set Your Apikey OMDB"
-msgstr ""
+msgstr "APIkey OMDB 설정"
 
 msgid "Set Your Apikey TMDB"
-msgstr ""
+msgstr "APIkey TMDB 설정"
 
 msgid "Setup"
-msgstr ""
+msgstr "설정"
 
 msgid "Skin exist!! Do you really want to Upgrade?"
-msgstr ""
+msgstr "스킨이 존재합니다!! 정말로 업그레이드하시겠습니까?"
 
 msgid "Skin update:"
-msgstr ""
+msgstr "스킨 업데이트:"
 
 msgid "Style presets contains errors!"
-msgstr ""
+msgstr "스타일 사전 설정에 오류가 있습니다!"
 
 msgid "Style your zSkin"
-msgstr ""
+msgstr "zSkin 스타일 지정"
 
 msgid "TMDB API:"
 msgstr ""
 
 msgid "TMDB ApiKey Imported & Stored!"
-msgstr ""
+msgstr "TMDB ApiKey 가져오기 및 저장됨!"
 
 msgid "The skin is not styled - restore canceled!"
-msgstr ""
+msgstr "스킨에 스타일이 지정되지 않았습니다. 복원이 취소되었습니다!"
 
 msgid "The skin not exists - restore canceled!"
-msgstr ""
+msgstr "스킨이 존재하지 않습니다. 복원이 취소되었습니다!"
 
 msgid "Would you really reset this skin?"
-msgstr ""
+msgstr "정말 이 스킨을 초기화하시겠습니까?"
 
 msgid "play/show Files"
-msgstr ""
+msgstr "파일 재생/표시"

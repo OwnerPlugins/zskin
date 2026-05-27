@@ -11,31 +11,31 @@ msgstr ""
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
 
 msgid "All png are removed from folder!"
-msgstr ""
+msgstr "All png er fjernet fra mappen!"
 
 msgid "Close"
-msgstr ""
+msgstr "Lukke"
 
 msgid "Current skin can not styled!"
-msgstr ""
+msgstr "Nåværende hud kan ikke styles!"
 
 msgid "Default"
-msgstr ""
+msgstr "Misligholde"
 
 msgid "Del Line"
 msgstr ""
 
 msgid "Exit"
-msgstr ""
+msgstr "Gå"
 
 msgid "File Commander - Addon"
 msgstr ""
 
 msgid "Import Api Key OMDB from /tmp/omdbapikey.txt?"
-msgstr ""
+msgstr "Importere Api Key OMDB fra /tmp/omdbapikey.txt?"
 
 msgid "Import Api Key TMDB from /tmp/tmdbapikey.txt?"
-msgstr ""
+msgstr "Importere Api Key TMDB fra /tmp/tmdbapikey.txt?"
 
 msgid "Info..."
 msgstr ""
@@ -44,82 +44,82 @@ msgid "Ins Line"
 msgstr ""
 
 msgid "Missing %s !"
-msgstr ""
+msgstr "Mangler %s!"
 
 msgid "No previous styled skin - restore canceled!"
-msgstr ""
+msgstr "Ingen tidligere stylet hud - gjenoppretting avbrutt!"
 
 msgid "OMDB API:"
 msgstr ""
 
 msgid "OMDB ApiKey Imported & Stored!"
-msgstr ""
+msgstr "OMDB ApiKey importert og lagret!"
 
 msgid "PRESET"
-msgstr ""
+msgstr "FORHÅNDSINNSTILLING"
 
 msgid "Preserve preview if not defined:"
-msgstr ""
+msgstr "Behold forhåndsvisning hvis ikke definert:"
 
 msgid "Read Apikey OMDB from file /tmp/omdbapikey.txt"
-msgstr ""
+msgstr "Les Apikey OMDB fra filen /tmp/omdbapikey.txt"
 
 msgid "Read Apikey TMDB from file /tmp/tmdbapikey.txt"
-msgstr ""
+msgstr "Les Apikey TMDB fra filen /tmp/tmdbapikey.txt"
 
 msgid "Read style configuration from skin:"
-msgstr ""
+msgstr "Les stilkonfigurasjon fra hud:"
 
 msgid "Remove all png Poster:"
-msgstr ""
+msgstr "Fjern all png-plakat:"
 
 msgid "Reset skin"
-msgstr ""
+msgstr "Tilbakestill huden"
 
 msgid "Reset skin?"
-msgstr ""
+msgstr "Tilbakestille huden?"
 
 msgid "Restart GUI now?"
-msgstr ""
+msgstr "Vil du starte GUI på nytt nå?"
 
 msgid "Save"
-msgstr ""
+msgstr "Spare"
 
 msgid "Set Your Apikey OMDB"
-msgstr ""
+msgstr "Still inn Apikey OMDB"
 
 msgid "Set Your Apikey TMDB"
-msgstr ""
+msgstr "Still inn Apikey TMDB"
 
 msgid "Setup"
-msgstr ""
+msgstr "Oppsett"
 
 msgid "Skin exist!! Do you really want to Upgrade?"
-msgstr ""
+msgstr "Hud finnes!! Vil du virkelig oppgradere?"
 
 msgid "Skin update:"
-msgstr ""
+msgstr "Hudoppdatering:"
 
 msgid "Style presets contains errors!"
-msgstr ""
+msgstr "Stilforhåndsinnstillinger inneholder feil!"
 
 msgid "Style your zSkin"
-msgstr ""
+msgstr "Stil din zSkin"
 
 msgid "TMDB API:"
 msgstr ""
 
 msgid "TMDB ApiKey Imported & Stored!"
-msgstr ""
+msgstr "TMDB ApiKey importert og lagret!"
 
 msgid "The skin is not styled - restore canceled!"
-msgstr ""
+msgstr "Huden er ikke stylet - restore avbrutt!"
 
 msgid "The skin not exists - restore canceled!"
-msgstr ""
+msgstr "Huden eksisterer ikke - gjenoppretting avbrutt!"
 
 msgid "Would you really reset this skin?"
-msgstr ""
+msgstr "Ville du virkelig tilbakestilt denne huden?"
 
 msgid "play/show Files"
-msgstr ""
+msgstr "spill/vis filer"

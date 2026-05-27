@@ -10,115 +10,115 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 
 msgid "All png are removed from folder!"
-msgstr ""
+msgstr "Tots els png s'han eliminat de la carpeta!"
 
 msgid "Close"
-msgstr ""
+msgstr "Tancar"
 
 msgid "Current skin can not styled!"
-msgstr ""
+msgstr "La pell actual no es pot estilitzar!"
 
 msgid "Default"
-msgstr ""
+msgstr "Per defecte"
 
 msgid "Del Line"
 msgstr ""
 
 msgid "Exit"
-msgstr ""
+msgstr "Sortida"
 
 msgid "File Commander - Addon"
 msgstr ""
 
 msgid "Import Api Key OMDB from /tmp/omdbapikey.txt?"
-msgstr ""
+msgstr "Importar la clau API OMDB des de /tmp/omdbapikey.txt?"
 
 msgid "Import Api Key TMDB from /tmp/tmdbapikey.txt?"
-msgstr ""
+msgstr "Importar la clau API TMDB des de /tmp/tmdbapikey.txt?"
 
 msgid "Info..."
-msgstr ""
+msgstr "Informació..."
 
 msgid "Ins Line"
-msgstr ""
+msgstr "Línia Ins"
 
 msgid "Missing %s !"
-msgstr ""
+msgstr "Falta %s!"
 
 msgid "No previous styled skin - restore canceled!"
-msgstr ""
+msgstr "No hi ha cap pell amb estil anterior: la restauració s'ha cancel·lat!"
 
 msgid "OMDB API:"
-msgstr ""
+msgstr "API OMDB:"
 
 msgid "OMDB ApiKey Imported & Stored!"
-msgstr ""
+msgstr "OMDB ApiKey importat i emmagatzemat!"
 
 msgid "PRESET"
 msgstr ""
 
 msgid "Preserve preview if not defined:"
-msgstr ""
+msgstr "Conserva la vista prèvia si no està definida:"
 
 msgid "Read Apikey OMDB from file /tmp/omdbapikey.txt"
-msgstr ""
+msgstr "Llegiu Apikey OMDB des del fitxer /tmp/omdbapikey.txt"
 
 msgid "Read Apikey TMDB from file /tmp/tmdbapikey.txt"
-msgstr ""
+msgstr "Llegiu Apikey TMDB des del fitxer /tmp/tmdbapikey.txt"
 
 msgid "Read style configuration from skin:"
-msgstr ""
+msgstr "Llegiu la configuració de l'estil des de la pell:"
 
 msgid "Remove all png Poster:"
-msgstr ""
+msgstr "Elimina tot el cartell png:"
 
 msgid "Reset skin"
-msgstr ""
+msgstr "Restablir la pell"
 
 msgid "Reset skin?"
-msgstr ""
+msgstr "Restablir la pell?"
 
 msgid "Restart GUI now?"
-msgstr ""
+msgstr "Reinicieu la GUI ara?"
 
 msgid "Save"
-msgstr ""
+msgstr "Desa"
 
 msgid "Set Your Apikey OMDB"
-msgstr ""
+msgstr "Configura el teu Apikey OMDB"
 
 msgid "Set Your Apikey TMDB"
-msgstr ""
+msgstr "Configura el teu Apikey TMDB"
 
 msgid "Setup"
-msgstr ""
+msgstr "Configuració"
 
 msgid "Skin exist!! Do you really want to Upgrade?"
-msgstr ""
+msgstr "La pell existeix!! Realment voleu actualitzar?"
 
 msgid "Skin update:"
-msgstr ""
+msgstr "Actualització de la pell:"
 
 msgid "Style presets contains errors!"
-msgstr ""
+msgstr "Els valors predefinits d'estil contenen errors!"
 
 msgid "Style your zSkin"
-msgstr ""
+msgstr "Estil la teva zSkin"
 
 msgid "TMDB API:"
-msgstr ""
+msgstr "API de TMDB:"
 
 msgid "TMDB ApiKey Imported & Stored!"
-msgstr ""
+msgstr "TMDB ApiKey importat i emmagatzemat!"
 
 msgid "The skin is not styled - restore canceled!"
-msgstr ""
+msgstr "La pell no està dissenyada: restauració cancel·lada!"
 
 msgid "The skin not exists - restore canceled!"
-msgstr ""
+msgstr "La pell no existeix; restauració cancel·lada!"
 
 msgid "Would you really reset this skin?"
-msgstr ""
+msgstr "Realment reiniciaria aquesta pell?"
 
 msgid "play/show Files"
-msgstr ""
+msgstr "reproduir/mostrar fitxers"

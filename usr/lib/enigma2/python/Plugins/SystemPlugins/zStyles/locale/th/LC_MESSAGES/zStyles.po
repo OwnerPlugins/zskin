@@ -10,115 +10,115 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 
 msgid "All png are removed from folder!"
-msgstr ""
+msgstr "PNG ทั้งหมดจะถูกลบออกจากโฟลเดอร์!"
 
 msgid "Close"
-msgstr ""
+msgstr "ปิด"
 
 msgid "Current skin can not styled!"
-msgstr ""
+msgstr "สกินปัจจุบันไม่สามารถจัดสไตล์ได้!"
 
 msgid "Default"
-msgstr ""
+msgstr "ค่าเริ่มต้น"
 
 msgid "Del Line"
-msgstr ""
+msgstr "เดล ไลน์"
 
 msgid "Exit"
-msgstr ""
+msgstr "ออก"
 
 msgid "File Commander - Addon"
-msgstr ""
+msgstr "ผู้บัญชาการไฟล์ - Addon"
 
 msgid "Import Api Key OMDB from /tmp/omdbapikey.txt?"
-msgstr ""
+msgstr "นำเข้าคีย์ Api OMDB จาก /tmp/omdbapikey.txt?"
 
 msgid "Import Api Key TMDB from /tmp/tmdbapikey.txt?"
-msgstr ""
+msgstr "นำเข้า Api Key TMDB จาก /tmp/tmdbapikey.txt?"
 
 msgid "Info..."
-msgstr ""
+msgstr "ข้อมูล..."
 
 msgid "Ins Line"
-msgstr ""
+msgstr "อินไลน์"
 
 msgid "Missing %s !"
-msgstr ""
+msgstr "หายไป %s !"
 
 msgid "No previous styled skin - restore canceled!"
-msgstr ""
+msgstr "ไม่มีสกินที่มีสไตล์ก่อนหน้านี้ - การคืนค่าถูกยกเลิก!"
 
 msgid "OMDB API:"
 msgstr ""
 
 msgid "OMDB ApiKey Imported & Stored!"
-msgstr ""
+msgstr "OMDB ApiKey นำเข้าและจัดเก็บแล้ว!"
 
 msgid "PRESET"
-msgstr ""
+msgstr "ตั้งค่าล่วงหน้า"
 
 msgid "Preserve preview if not defined:"
-msgstr ""
+msgstr "เก็บตัวอย่างไว้หากไม่ได้กำหนดไว้:"
 
 msgid "Read Apikey OMDB from file /tmp/omdbapikey.txt"
-msgstr ""
+msgstr "อ่าน Apikey OMDB จากไฟล์ /tmp/omdbapikey.txt"
 
 msgid "Read Apikey TMDB from file /tmp/tmdbapikey.txt"
-msgstr ""
+msgstr "อ่าน Apikey TMDB จากไฟล์ /tmp/tmdbapikey.txt"
 
 msgid "Read style configuration from skin:"
-msgstr ""
+msgstr "อ่านการกำหนดค่าสไตล์จากสกิน:"
 
 msgid "Remove all png Poster:"
-msgstr ""
+msgstr "ลบโปสเตอร์ PNG ทั้งหมด:"
 
 msgid "Reset skin"
-msgstr ""
+msgstr "รีเซ็ตผิว"
 
 msgid "Reset skin?"
-msgstr ""
+msgstr "รีเซ็ตผิว?"
 
 msgid "Restart GUI now?"
-msgstr ""
+msgstr "รีสตาร์ท GUI ตอนนี้หรือไม่"
 
 msgid "Save"
-msgstr ""
+msgstr "บันทึก"
 
 msgid "Set Your Apikey OMDB"
-msgstr ""
+msgstr "ตั้งค่า Apikey OMDB ของคุณ"
 
 msgid "Set Your Apikey TMDB"
-msgstr ""
+msgstr "ตั้งค่า Apikey TMDB ของคุณ"
 
 msgid "Setup"
-msgstr ""
+msgstr "ตั้งค่า"
 
 msgid "Skin exist!! Do you really want to Upgrade?"
-msgstr ""
+msgstr "ผิวมีอยู่!! คุณต้องการอัพเกรดจริง ๆ หรือไม่?"
 
 msgid "Skin update:"
-msgstr ""
+msgstr "อัพเดตสกิน:"
 
 msgid "Style presets contains errors!"
-msgstr ""
+msgstr "ค่าที่ตั้งล่วงหน้าสไตล์มีข้อผิดพลาด!"
 
 msgid "Style your zSkin"
-msgstr ""
+msgstr "ตกแต่ง zSkin ของคุณ"
 
 msgid "TMDB API:"
 msgstr ""
 
 msgid "TMDB ApiKey Imported & Stored!"
-msgstr ""
+msgstr "TMDB ApiKey นำเข้าและจัดเก็บแล้ว!"
 
 msgid "The skin is not styled - restore canceled!"
-msgstr ""
+msgstr "ผิวไม่จัดทรง - ยกเลิกการคืนค่า!"
 
 msgid "The skin not exists - restore canceled!"
-msgstr ""
+msgstr "ไม่มีสกิน - ยกเลิกการคืนค่าแล้ว!"
 
 msgid "Would you really reset this skin?"
-msgstr ""
+msgstr "คุณจะรีเซ็ตสกินนี้จริงหรือ?"
 
 msgid "play/show Files"
-msgstr ""
+msgstr "เล่น/แสดงไฟล์"

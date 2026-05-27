@@ -11,31 +11,31 @@ msgstr ""
 "Plural-Forms: nplurals=3; plural=(n==1) ? 0 : (n>=2 && n<=4) ? 1 : 2;\n"
 
 msgid "All png are removed from folder!"
-msgstr ""
+msgstr "Všechny png jsou odstraněny ze složky!"
 
 msgid "Close"
-msgstr ""
+msgstr "Blízko"
 
 msgid "Current skin can not styled!"
-msgstr ""
+msgstr "Současná pleť neumí stylizovat!"
 
 msgid "Default"
-msgstr ""
+msgstr "Výchozí"
 
 msgid "Del Line"
 msgstr ""
 
 msgid "Exit"
-msgstr ""
+msgstr "Výstup"
 
 msgid "File Commander - Addon"
 msgstr ""
 
 msgid "Import Api Key OMDB from /tmp/omdbapikey.txt?"
-msgstr ""
+msgstr "Importovat Api Key OMDB z /tmp/omdbapikey.txt?"
 
 msgid "Import Api Key TMDB from /tmp/tmdbapikey.txt?"
-msgstr ""
+msgstr "Importovat Api Key TMDB z /tmp/tmdbapikey.txt?"
 
 msgid "Info..."
 msgstr ""
@@ -44,82 +44,82 @@ msgid "Ins Line"
 msgstr ""
 
 msgid "Missing %s !"
-msgstr ""
+msgstr "Chybí %s!"
 
 msgid "No previous styled skin - restore canceled!"
-msgstr ""
+msgstr "Žádný předchozí stylizovaný vzhled – obnovení zrušeno!"
 
 msgid "OMDB API:"
 msgstr ""
 
 msgid "OMDB ApiKey Imported & Stored!"
-msgstr ""
+msgstr "OMDB ApiKey importováno a uloženo!"
 
 msgid "PRESET"
 msgstr ""
 
 msgid "Preserve preview if not defined:"
-msgstr ""
+msgstr "Zachovat náhled, pokud není definován:"
 
 msgid "Read Apikey OMDB from file /tmp/omdbapikey.txt"
-msgstr ""
+msgstr "Přečtěte si Apikey OMDB ze souboru /tmp/omdbapikey.txt"
 
 msgid "Read Apikey TMDB from file /tmp/tmdbapikey.txt"
-msgstr ""
+msgstr "Přečtěte si Apikey TMDB ze souboru /tmp/tmdbapikey.txt"
 
 msgid "Read style configuration from skin:"
-msgstr ""
+msgstr "Načíst konfiguraci stylu ze vzhledu:"
 
 msgid "Remove all png Poster:"
-msgstr ""
+msgstr "Odebrat všechny plakáty png:"
 
 msgid "Reset skin"
-msgstr ""
+msgstr "Resetovat kůži"
 
 msgid "Reset skin?"
-msgstr ""
+msgstr "Resetovat skin?"
 
 msgid "Restart GUI now?"
-msgstr ""
+msgstr "Restartovat GUI nyní?"
 
 msgid "Save"
-msgstr ""
+msgstr "Uložit"
 
 msgid "Set Your Apikey OMDB"
-msgstr ""
+msgstr "Nastavte svůj Apikey OMDB"
 
 msgid "Set Your Apikey TMDB"
-msgstr ""
+msgstr "Nastavte svůj Apikey TMDB"
 
 msgid "Setup"
-msgstr ""
+msgstr "Nastavení"
 
 msgid "Skin exist!! Do you really want to Upgrade?"
-msgstr ""
+msgstr "Kůže existuje!! Opravdu chcete upgradovat?"
 
 msgid "Skin update:"
-msgstr ""
+msgstr "Aktualizace vzhledu:"
 
 msgid "Style presets contains errors!"
-msgstr ""
+msgstr "Přednastavení stylu obsahuje chyby!"
 
 msgid "Style your zSkin"
-msgstr ""
+msgstr "Upravte svůj zSkin"
 
 msgid "TMDB API:"
 msgstr ""
 
 msgid "TMDB ApiKey Imported & Stored!"
-msgstr ""
+msgstr "TMDB ApiKey importováno a uloženo!"
 
 msgid "The skin is not styled - restore canceled!"
-msgstr ""
+msgstr "Pleť není upravená - obnova zrušena!"
 
 msgid "The skin not exists - restore canceled!"
-msgstr ""
+msgstr "Kůže neexistuje – obnova zrušena!"
 
 msgid "Would you really reset this skin?"
-msgstr ""
+msgstr "Opravdu byste resetovali tento skin?"
 
 msgid "play/show Files"
-msgstr ""
+msgstr "přehrát/zobrazit soubory"

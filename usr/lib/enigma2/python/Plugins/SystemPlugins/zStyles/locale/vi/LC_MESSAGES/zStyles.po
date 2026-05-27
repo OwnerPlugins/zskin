@@ -11,115 +11,115 @@ msgstr ""
 "Plural-Forms: nplurals=1; plural=0;\n"
 
 msgid "All png are removed from folder!"
-msgstr ""
+msgstr "Tất cả png đều bị xóa khỏi thư mục!"
 
 msgid "Close"
-msgstr ""
+msgstr "Đóng"
 
 msgid "Current skin can not styled!"
-msgstr ""
+msgstr "Da hiện tại không thể tạo kiểu!"
 
 msgid "Default"
-msgstr ""
+msgstr "Mặc định"
 
 msgid "Del Line"
 msgstr ""
 
 msgid "Exit"
-msgstr ""
+msgstr "Ra"
 
 msgid "File Commander - Addon"
-msgstr ""
+msgstr "Chỉ huy tập tin - Addon"
 
 msgid "Import Api Key OMDB from /tmp/omdbapikey.txt?"
-msgstr ""
+msgstr "Nhập khóa Api OMDB từ /tmp/omdbapikey.txt?"
 
 msgid "Import Api Key TMDB from /tmp/tmdbapikey.txt?"
-msgstr ""
+msgstr "Nhập khóa Api TMDB từ /tmp/tmdbapikey.txt?"
 
 msgid "Info..."
-msgstr ""
+msgstr "Thông tin..."
 
 msgid "Ins Line"
-msgstr ""
+msgstr "Dòng Ins"
 
 msgid "Missing %s !"
-msgstr ""
+msgstr "Thiếu %s !"
 
 msgid "No previous styled skin - restore canceled!"
-msgstr ""
+msgstr "Không có giao diện được tạo kiểu trước đó - việc khôi phục đã bị hủy!"
 
 msgid "OMDB API:"
-msgstr ""
+msgstr "API OMDB:"
 
 msgid "OMDB ApiKey Imported & Stored!"
-msgstr ""
+msgstr "OMDB ApiKey được nhập và lưu trữ!"
 
 msgid "PRESET"
-msgstr ""
+msgstr "ĐẶT TRƯỚC"
 
 msgid "Preserve preview if not defined:"
-msgstr ""
+msgstr "Giữ nguyên bản xem trước nếu không được xác định:"
 
 msgid "Read Apikey OMDB from file /tmp/omdbapikey.txt"
-msgstr ""
+msgstr "Đọc Apikey OMDB từ tệp /tmp/omdbapikey.txt"
 
 msgid "Read Apikey TMDB from file /tmp/tmdbapikey.txt"
-msgstr ""
+msgstr "Đọc Apikey TMDB từ tệp /tmp/tmdbapikey.txt"
 
 msgid "Read style configuration from skin:"
-msgstr ""
+msgstr "Đọc cấu hình kiểu từ da:"
 
 msgid "Remove all png Poster:"
-msgstr ""
+msgstr "Xóa tất cả áp phích png:"
 
 msgid "Reset skin"
-msgstr ""
+msgstr "Đặt lại giao diện"
 
 msgid "Reset skin?"
-msgstr ""
+msgstr "Đặt lại làn da?"
 
 msgid "Restart GUI now?"
-msgstr ""
+msgstr "Khởi động lại GUI ngay bây giờ?"
 
 msgid "Save"
-msgstr ""
+msgstr "Cứu"
 
 msgid "Set Your Apikey OMDB"
-msgstr ""
+msgstr "Đặt Apikey OMDB của bạn"
 
 msgid "Set Your Apikey TMDB"
-msgstr ""
+msgstr "Đặt Apikey TMDB của bạn"
 
 msgid "Setup"
-msgstr ""
+msgstr "Cài đặt"
 
 msgid "Skin exist!! Do you really want to Upgrade?"
-msgstr ""
+msgstr "Da tồn tại!! Bạn có thực sự muốn nâng cấp?"
 
 msgid "Skin update:"
-msgstr ""
+msgstr "Cập nhật da:"
 
 msgid "Style presets contains errors!"
-msgstr ""
+msgstr "Cài đặt trước kiểu có lỗi!"
 
 msgid "Style your zSkin"
-msgstr ""
+msgstr "Tạo kiểu cho zSkin của bạn"
 
 msgid "TMDB API:"
-msgstr ""
+msgstr "API TMDB:"
 
 msgid "TMDB ApiKey Imported & Stored!"
-msgstr ""
+msgstr "TMDB ApiKey được nhập và lưu trữ!"
 
 msgid "The skin is not styled - restore canceled!"
-msgstr ""
+msgstr "Da không được tạo kiểu - quá trình khôi phục bị hủy!"
 
 msgid "The skin not exists - restore canceled!"
-msgstr ""
+msgstr "Da không tồn tại - khôi phục đã bị hủy!"
 
 msgid "Would you really reset this skin?"
-msgstr ""
+msgstr "Bạn có thực sự muốn thiết lập lại làn da này không?"
 
 msgid "play/show Files"
-msgstr ""
+msgstr "phát/hiển thị tập tin"
